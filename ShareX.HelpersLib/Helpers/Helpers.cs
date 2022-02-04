@@ -23,7 +23,7 @@
 
 #endregion License Information (GPL v3)
 
-using Microsoft.VisualBasic.FileIO;
+//using Microsoft.VisualBasic.FileIO;
 using Microsoft.Win32;
 using Newtonsoft.Json.Linq;
 using ShareX.HelpersLib.Properties;
@@ -1689,13 +1689,14 @@ namespace ShareX.HelpersLib
             return Task.WhenAll(tasks);
         }
 
+        /*
         public static bool SendFileToRecycleBin(string filePath)
         {
             if (!string.IsNullOrEmpty(filePath) && File.Exists(filePath))
             {
                 try
                 {
-                    FileSystem.DeleteFile(filePath, UIOption.OnlyErrorDialogs, RecycleOption.SendToRecycleBin);
+                    //FileSystem.DeleteFile(filePath, UIOption.OnlyErrorDialogs, RecycleOption.SendToRecycleBin);
                     return true;
                 }
                 catch
@@ -1705,5 +1706,6 @@ namespace ShareX.HelpersLib
 
             return false;
         }
+        */
     }
 }

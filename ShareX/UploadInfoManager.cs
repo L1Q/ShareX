@@ -347,6 +347,7 @@ namespace ShareX
             if (IsItemSelected && SelectedItem.IsImageFile) TaskHelpers.OpenImageEffects(SelectedItem.Info.FilePath);
         }
 
+        /*
         public void DeleteFiles()
         {
             if (IsItemSelected)
@@ -357,6 +358,7 @@ namespace ShareX
                 }
             }
         }
+        */
 
         public void ShortenURL(UrlShortenerType urlShortener)
         {

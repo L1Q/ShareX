@@ -68,7 +68,7 @@ namespace ShareX
             UpdateHotkeyText();
             if (ShareXResources.UseCustomTheme)
             {
-                ShareXResources.ApplyCustomThemeToControl(this);
+                //ShareXResources.ApplyCustomThemeToControl(this);
             }
             UpdateHotkeyStatus();
             UpdateTheme();

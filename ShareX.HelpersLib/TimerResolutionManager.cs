@@ -24,7 +24,7 @@
 #endregion License Information (GPL v3)
 
 using System;
-using System.Runtime.InteropServices;
+//using System.Runtime.InteropServices;
 
 namespace ShareX.HelpersLib
 {
@@ -37,14 +37,15 @@ namespace ShareX.HelpersLib
 
         public TimerResolutionManager(uint period = 1)
         {
-            Enable(period);
+            //Enable(period);
         }
 
         public void Dispose()
         {
-            Disable();
+            //Disable();
         }
 
+        /*
         public static bool Enable(uint period = 1)
         {
             lock (thisLock)
@@ -88,5 +89,6 @@ namespace ShareX.HelpersLib
                 return !enabled;
             }
         }
+        */
     }
 }

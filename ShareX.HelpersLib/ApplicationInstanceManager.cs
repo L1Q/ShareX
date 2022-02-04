@@ -82,7 +82,7 @@ namespace ShareX.HelpersLib
 
                 if (serverChannel != null)
                 {
-                    ChannelServices.UnregisterChannel(serverChannel);
+                    //ChannelServices.UnregisterChannel(serverChannel);
                 }
 
                 if (semaphore != null)

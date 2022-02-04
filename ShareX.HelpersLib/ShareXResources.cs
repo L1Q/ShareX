@@ -132,6 +132,7 @@ namespace ShareX.HelpersLib
                 form.Icon = Icon;
             }
 
+            /*
             if (UseCustomTheme)
             {
                 ApplyCustomThemeToControl(form);
@@ -148,10 +149,12 @@ namespace ShareX.HelpersLib
                     form.HandleCreated += (s, e) => NativeMethods.UseImmersiveDarkMode(form.Handle, Theme.IsDarkTheme);
                 }
             }
+            */
         }
 
         public static void ApplyCustomThemeToControl(Control control)
         {
+            /*
             if (control.ContextMenuStrip != null)
             {
                 ApplyCustomThemeToContextMenuStrip(control.ContextMenuStrip);
@@ -259,10 +262,12 @@ namespace ShareX.HelpersLib
                     tttv.SeparatorColor = Theme.SeparatorDarkColor;
                     break;
             }
+            */
         }
 
         private static void ApplyCustomThemeToComponents(IContainer container)
         {
+            /*
             if (container != null)
             {
                 foreach (IComponent component in container.Components)
@@ -282,6 +287,7 @@ namespace ShareX.HelpersLib
                     }
                 }
             }
+            */
         }
 
         private static void ToolTip_Draw(object sender, DrawToolTipEventArgs e)
@@ -293,6 +299,7 @@ namespace ShareX.HelpersLib
 
         public static void ApplyCustomThemeToContextMenuStrip(ContextMenuStrip cms)
         {
+            /*
             if (cms != null)
             {
                 cms.Renderer = new ToolStripDarkRenderer();
@@ -300,10 +307,12 @@ namespace ShareX.HelpersLib
                 cms.Opacity = Theme.ContextMenuOpacityDouble;
                 ApplyCustomThemeToToolStripItemCollection(cms.Items);
             }
+            */
         }
 
         private static void ApplyCustomThemeToToolStripItemCollection(ToolStripItemCollection collection)
         {
+            /*
             foreach (ToolStripItem tsi in collection)
             {
                 switch (tsi)
@@ -320,6 +329,7 @@ namespace ShareX.HelpersLib
                         break;
                 }
             }
+            */
         }
     }
 }
