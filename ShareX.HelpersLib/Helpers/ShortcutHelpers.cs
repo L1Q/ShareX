@@ -23,13 +23,14 @@
 
 #endregion License Information (GPL v3)
 
-using IWshRuntimeLibrary;
+//using IWshRunIWstimeLibrary;
 using System;
 using System.IO;
 using File = System.IO.File;
 
 namespace ShareX.HelpersLib
 {
+    /*
     public static class ShortcutHelpers
     {
         public static bool SetShortcut(bool create, Environment.SpecialFolder specialFolder, string shortcutName, string targetPath, string arguments = "")
@@ -133,4 +134,5 @@ namespace ShareX.HelpersLib
             return false;
         }
     }
+    */
 }

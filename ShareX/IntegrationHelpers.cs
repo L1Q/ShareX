@@ -416,12 +416,12 @@ namespace ShareX
 
         public static bool CheckSendToMenuButton()
         {
-            return ShortcutHelpers.CheckShortcut(Environment.SpecialFolder.SendTo, "ShareX", Application.ExecutablePath);
+            return false; //ShortcutHelpers.CheckShortcut(Environment.SpecialFolder.SendTo, "ShareX", Application.ExecutablePath);
         }
 
         public static bool CreateSendToMenuButton(bool create)
         {
-            return ShortcutHelpers.SetShortcut(create, Environment.SpecialFolder.SendTo, "ShareX", Application.ExecutablePath);
+            return false;//ShortcutHelpers.SetShortcut(create, Environment.SpecialFolder.SendTo, "ShareX", Application.ExecutablePath);
         }
 
         public static bool CheckSteamShowInApp()
@@ -462,7 +462,7 @@ namespace ShareX
             CreateEditShellContextMenuButton(false);
             CreateCustomUploaderExtension(false);
             CreateImageEffectExtension(false);
-            CreateSendToMenuButton(false);
+            //CreateSendToMenuButton(false);
         }
     }
 }

@@ -79,7 +79,7 @@ namespace ShareX
         {
             if (loaded)
             {
-                IntegrationHelpers.CreateSendToMenuButton(cbSendToMenu.Checked);
+                //IntegrationHelpers.CreateSendToMenuButton(cbSendToMenu.Checked);
             }
         }
 

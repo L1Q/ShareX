@@ -614,7 +614,7 @@ namespace ShareX
         {
             if (ready)
             {
-                IntegrationHelpers.CreateSendToMenuButton(cbSendToMenu.Checked);
+                //IntegrationHelpers.CreateSendToMenuButton(cbSendToMenu.Checked);
             }
         }
 
