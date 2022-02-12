@@ -28,6 +28,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace ShareX
@@ -254,6 +255,9 @@ namespace ShareX
 
         private void Panel_MouseEnter(object sender, EventArgs e)
         {
+            if (!RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                return;
+
             // Workaround to handle mouse wheel scrolling in Windows 7
             if (NativeMethods.GetForegroundWindow() == ParentForm.Handle && !flpMain.Focused)
             {
