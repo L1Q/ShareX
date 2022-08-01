@@ -249,7 +249,7 @@
     <value>Запускається</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_Image_uploader___0_" xml:space="preserve">
-    <value>Вивантажувач зображення: {0}</value>
+    <value>Вивантажувач зображень: {0}</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>Скопійовано в буфер обміну: {0}</value>
@@ -322,7 +322,7 @@
     <value>Португальська (Бразилія)</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
-    <value>Файл відвантажується: {0}</value>
+    <value>Вивантажувач файлів: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Сторінка проекту</value>
@@ -438,7 +438,7 @@
     <value>Зупинено</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
-    <value>Посилання служби спільного доступу: {0}</value>
+    <value>Служба посилань спільного доступу: {0}</value>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
     <value>Змінити з ShareX</value>
@@ -515,5 +515,23 @@
   </data>
   <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
     <value>Угорська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
+    <value>Японська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
+    <value>Польська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
+    <value>Португальська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
+    <value>Румунська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
+    <value>Перська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Links" xml:space="preserve">
+    <value>Посилання</value>
   </data>
 </root>

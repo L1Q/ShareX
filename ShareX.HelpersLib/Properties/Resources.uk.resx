@@ -1096,4 +1096,13 @@ File size: {2:n0} / {3:n0} KB</value>
   <data name="ObjectListView_ObjectListView_Value" xml:space="preserve">
     <value>Значення</value>
   </data>
+  <data name="ToastClickAction_CopyUrl" xml:space="preserve">
+    <value>Копіювати посилання</value>
+  </data>
+  <data name="ToastClickAction_OpenUrl" xml:space="preserve">
+    <value>Відкрити посилання</value>
+  </data>
+  <data name="HotkeyType_VideoConverter" xml:space="preserve">
+    <value>Конвертер відео</value>
+  </data>
 </root>

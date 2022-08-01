@@ -214,9 +214,6 @@
   <data name="lblVorbisQuality.Text" xml:space="preserve">
     <value>Якість:</value>
   </data>
-  <data name="tpVorbis.Text" xml:space="preserve">
-    <value>Vorbis</value>
-  </data>
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>Якість:</value>
   </data>

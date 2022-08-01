@@ -160,16 +160,16 @@
     <value>Вивантажити</value>
   </data>
   <data name="lblActionsNote.Text" xml:space="preserve">
-    <value>Примітка: Ви можете увімкнути/вимкнути дії з „Після завдання захоплення -&gt; Виконати дії".</value>
+    <value>Примітка: Ви можете увімкнути/вимкнути дії з „Завдання після захоплення -&gt; Виконати дії".</value>
   </data>
   <data name="btnActionsDuplicate.Text" xml:space="preserve">
     <value>Дублювати</value>
   </data>
   <data name="btnActionsAdd.Text" xml:space="preserve">
-    <value>Додати</value>
+    <value>Додати...</value>
   </data>
   <data name="btnActionsEdit.Text" xml:space="preserve">
-    <value>Змінити</value>
+    <value>Змінити...</value>
   </data>
   <data name="btnActionsRemove.Text" xml:space="preserve">
     <value>Вилучити</value>

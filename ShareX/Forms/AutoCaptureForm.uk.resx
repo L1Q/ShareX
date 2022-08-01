@@ -133,7 +133,7 @@
     <value>Область</value>
   </data>
   <data name="btnRegion.Text" xml:space="preserve">
-    <value>Виберіть область</value>
+    <value>Виберіть область...</value>
   </data>
   <data name="lblDuration.Text" xml:space="preserve">
     <value>Час повторів:</value>

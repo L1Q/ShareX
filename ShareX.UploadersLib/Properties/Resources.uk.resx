@@ -127,7 +127,7 @@
     <value>Збій авторизації.</value>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Parent_album_path_e_g_" xml:space="preserve">
-    <value>Шлях до батьківського альбому, наприклад,</value>
+    <value>Шлях до батьківського альбому, наприклад:</value>
   </data>
   <data name="UploadersConfigForm_TestCustomUploader_Error__Result_is_empty_" xml:space="preserve">
     <value>Помилка: Результат порожній.</value>

@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblAfterCaptureTasks.Text" xml:space="preserve">
-    <value>Після завдання захоплення:</value>
+    <value>Завдання після захоплення:</value>
   </data>
   <data name="lblAfterUploadTasks.Text" xml:space="preserve">
-    <value>Після завдання вивантаження:</value>
+    <value>Завдання після вивантаження:</value>
   </data>
   <data name="lblName.Text" xml:space="preserve">
     <value>Текст меню:</value>

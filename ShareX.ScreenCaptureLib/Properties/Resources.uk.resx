@@ -214,7 +214,7 @@
     <value>Колір заливки...</value>
   </data>
   <data name="ShapeManager_CreateToolbar_SaveImageAs" xml:space="preserve">
-    <value>Зберегти зображення як...</value>
+    <value>Зберегти зображення як... (Ctrl + Shift + S)</value>
   </data>
   <data name="ShapeManager_CreateToolbar_CanvasSize" xml:space="preserve">
     <value>Розмір полотна...</value>

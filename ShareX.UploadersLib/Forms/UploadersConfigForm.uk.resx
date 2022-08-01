@@ -420,9 +420,6 @@
   <data name="lblAzureStorageCustomDomain.Text" xml:space="preserve">
     <value>Домен користувача:</value>
   </data>
-  <data name="tpAzureStorage.Text" xml:space="preserve">
-    <value>Сховище Azure</value>
-  </data>
   <data name="lblB2UrlPreview.Text" xml:space="preserve">
     <value>Попередній перегляд</value>
   </data>
@@ -523,7 +520,7 @@
     <value>Шаблон</value>
   </data>
   <data name="lblJiraHost.Text" xml:space="preserve">
-    <value>Хост Jira: </value>
+    <value>Хост Jira:</value>
   </data>
   <data name="gbJiraServer.Text" xml:space="preserve">
     <value>Сервер Jira</value>
@@ -624,9 +621,6 @@
   <data name="lblStreamablePassword.Text" xml:space="preserve">
     <value>Пароль:</value>
   </data>
-  <data name="tpStreamable.Text" xml:space="preserve">
-    <value>Потоковий</value>
-  </data>
   <data name="btnSulGetAPIKey.Text" xml:space="preserve">
     <value>Отримати ключ API...</value>
   </data>
@@ -661,7 +655,7 @@
     <value>Інші налаштування</value>
   </data>
   <data name="lblPlikTTL.Text" xml:space="preserve">
-    <value>Файли будуть автоматично видалені через </value>
+    <value>Файли будуть автоматично видалені через</value>
   </data>
   <data name="lblPlikURL.Text" xml:space="preserve">
     <value>Хост</value>
@@ -670,7 +664,7 @@
     <value>Потрібні імʼя користувача та пароль?</value>
   </data>
   <data name="lblPlikAPIKey.Text" xml:space="preserve">
-    <value>Ключ API: </value>
+    <value>Ключ API:</value>
   </data>
   <data name="lblPlikPassword.Text" xml:space="preserve">
     <value>Пароль:</value>

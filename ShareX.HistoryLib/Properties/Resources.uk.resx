@@ -124,7 +124,7 @@
     <value>Посилання на мініатюру</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Image_preview" xml:space="preserve">
-    <value>Попередній перегляд зображення</value>
+    <value>Попередній перегляд зображення...</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File" xml:space="preserve">
     <value>Файл</value>

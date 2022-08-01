@@ -139,7 +139,7 @@
     <value>Змінити меню швидких завдань...</value>
   </data>
   <data name="cbShowTray.Text" xml:space="preserve">
-    <value>Показувати піктограму в області сповіщень</value>
+    <value>Показувати піктограму в лотку</value>
   </data>
   <data name="cbTrayIconProgressEnabled.Text" xml:space="preserve">
     <value>Показувати перебіг в області сповіщень</value>
@@ -163,7 +163,7 @@
     <value>Загальні</value>
   </data>
   <data name="btnThemeReset.Text" xml:space="preserve">
-    <value>Скинути</value>
+    <value>Скинути...</value>
   </data>
   <data name="btnThemeRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
@@ -203,9 +203,6 @@
   </data>
   <data name="cbShellContextMenu.Text" xml:space="preserve">
     <value>Показувати кнопку „Вивантажити із ShareX“ у контекстному меню Провідника Windows</value>
-  </data>
-  <data name="gbWindows.Text" xml:space="preserve">
-    <value>Вікна</value>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
     <value>Інтеграція</value>

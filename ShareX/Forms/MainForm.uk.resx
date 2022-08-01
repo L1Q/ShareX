@@ -277,10 +277,10 @@
     <value>Інструменти</value>
   </data>
   <data name="tsddbAfterCaptureTasks.Text" xml:space="preserve">
-    <value>Після завдання захоплення</value>
+    <value>Завдання після захоплення</value>
   </data>
   <data name="tsddbAfterUploadTasks.Text" xml:space="preserve">
-    <value>Після завдання вивантаження</value>
+    <value>Завдання після вивантаження</value>
   </data>
   <data name="tsmiImageUploaders.Text" xml:space="preserve">
     <value>Вивантажувачі зображень</value>
@@ -634,10 +634,10 @@
     <value>Інструменти</value>
   </data>
   <data name="tsmiTrayAfterCaptureTasks.Text" xml:space="preserve">
-    <value>Після завдання захоплення</value>
+    <value>Завдання після захоплення</value>
   </data>
   <data name="tsmiTrayAfterUploadTasks.Text" xml:space="preserve">
-    <value>Після завдання вивантаження</value>
+    <value>Завдання після вивантаження</value>
   </data>
   <data name="tsmiTrayImageUploaders.Text" xml:space="preserve">
     <value>Вивантажувачі зображень</value>
