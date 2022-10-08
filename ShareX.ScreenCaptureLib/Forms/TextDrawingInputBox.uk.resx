@@ -146,6 +146,7 @@
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>Гаразд</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiAlignmentLeft.Text" xml:space="preserve">
     <value>Зліва</value>
@@ -190,6 +191,7 @@
     <value>Зворотна діагональ</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Введення тексту</value>
+    <value>ShareX - Введення тексту</value>
+    <comment>+</comment>
   </data>
 </root>

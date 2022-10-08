@@ -121,25 +121,32 @@
     <value>Довільна область</value>
   </data>
   <data name="ReplCodeMenuEntry_w_Current_week_name__Local_language_" xml:space="preserve">
-    <value>Назва дня тижня (місцевою мовою)</value>
+    <value>Назва поточного дня тижня (Мовою системи)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %w - Week name (Local language)</comment>
   </data>
   <data name="ExportImportControl_tsmiExportClipboard_Click_Settings_copied_to_your_clipboard_" xml:space="preserve">
-    <value>Налаштування скопійовано у буфер обміну.</value>
+    <value>Налаштування скопійовано у ваш буфер обміну.</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_DNSChanger_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ReplCodeMenuEntry_s_Current_second" xml:space="preserve">
-    <value>Секунда</value>
+    <value>Поточна секунда</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %s - Second</comment>
   </data>
   <data name="TextDestination_CustomTextUploader" xml:space="preserve">
-    <value>Нетиповий вивантажувач тексту</value>
+    <value>Користувацький вивантажувач тексту</value>
+    <comment>+</comment>
   </data>
   <data name="ProxyMethod_None" xml:space="preserve">
     <value>Немає</value>
   </data>
   <data name="ReplCodeMenuEntry_mo_Current_month" xml:space="preserve">
-    <value>місяць</value>
+    <value>Поточний місяць</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %mo - Month</comment>
   </data>
   <data name="CssFileNameEditor_EditValue_Browse_for_a_Cascading_Style_Sheet___" xml:space="preserve">
     <value>Огляд каскадних таблиць стилів...</value>
@@ -149,27 +156,36 @@
   </data>
   <data name="HotkeyType_VideoThumbnailer" xml:space="preserve">
     <value>Генератор мініатюр відео</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_EffectBlur" xml:space="preserve">
     <value>Розмиття (B)</value>
   </data>
   <data name="AfterCaptureTasks_ShowQuickTaskMenu" xml:space="preserve">
     <value>Показати меню швидких завдань</value>
+    <comment>+</comment>
   </data>
   <data name="CustomUploaderDestinationType_URLShortener" xml:space="preserve">
-    <value>Скорочення посилань</value>
+    <value>Скорочувач посилань</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ScreenColorPicker_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_OpenImageHistory_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ReplCodeMenuEntry_uln_User_login_name" xml:space="preserve">
-    <value>Імʼя користувача</value>
+    <value>Імʼя користувача для входу</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Computer -&gt; %uln - User login name</comment>
   </data>
   <data name="HotkeyType_ImageEffects" xml:space="preserve">
     <value>Ефекти зображення</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_DrawingImageScreen" xml:space="preserve">
     <value>Зображення (екран)</value>
@@ -178,100 +194,110 @@
     <value>Доступна нова версія {0}</value>
   </data>
   <data name="AfterUploadTasks_ShowQRCode" xml:space="preserve">
-    <value>Показати вікно QR-коду</value>
+    <value>Показати вікно з швидківкою</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_DrawingSpeechBalloon" xml:space="preserve">
     <value>Текстова хмарка (S)</value>
   </data>
-  <data name="UpdateCheckerLabel_UpdateControls_ShareX_is_up_to_date" xml:space="preserve">
-    <value>{0} is up to date</value>
-  </data>
   <data name="HotkeyType_ScreenRecorder_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="PastebinExpiration_H1" xml:space="preserve">
     <value>1 година</value>
   </data>
   <data name="HotkeyType_ScrollingCapture" xml:space="preserve">
     <value>Захоплення з прокручуванням</value>
-  </data>
-  <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
-    <value>Auto increment alphanumeric case-sensitive. 0 pad left using {n}</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_t_Title_of_active_window" xml:space="preserve">
     <value>Заголовок вікна</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Window -&gt; %t - Title of window</comment>
   </data>
   <data name="AfterCaptureTasks_SendImageToPrinter" xml:space="preserve">
     <value>Роздрукувати зображення</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_RegionRectangle" xml:space="preserve">
     <value>Прямокутна область</value>
   </data>
   <data name="HotkeyType_FolderUpload_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ToggleActionsToolbar" xml:space="preserve">
-    <value>Панель дій перемикання</value>
+    <value>Панель перемикання дій</value>
+    <comment>+</comment>
   </data>
   <data name="AfterCaptureTasks_PerformActions" xml:space="preserve">
     <value>Виконати дії</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_QRCode_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ReplCodeMenuCategory_Date_and_Time" xml:space="preserve">
     <value>Дата та час</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time</comment>
   </data>
   <data name="HotkeyType_ImageCombiner" xml:space="preserve">
     <value>Об’єднувач зображень</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_RectangleTransparent" xml:space="preserve">
-    <value>Захоплення області (прозоре тло)</value>
-  </data>
-  <data name="DownloaderForm_fileDownloader_DownloadCompleted_Download_completed_" xml:space="preserve">
-    <value>Download completed.</value>
+    <value>Захоплення області (Прозоре тло)</value>
+    <comment>+</comment>
   </data>
   <data name="AfterUploadTasks_ShareURL" xml:space="preserve">
     <value>Поділитися посиланням</value>
+    <comment>+</comment>
   </data>
   <data name="CustomUploaderDestinationType_FileUploader" xml:space="preserve">
     <value>Вивантажувач файлів</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_h_Current_hour" xml:space="preserve">
-    <value>година</value>
+    <value>Поточна година</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %h - Hour</comment>
   </data>
   <data name="HotkeyType_DisableHotkeys_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="UpdateCheckerLabel_UpdateControls_Update_check_failed" xml:space="preserve">
     <value>Не вдалось перевірити оновлення</value>
   </data>
   <data name="ReplCodeMenuEntry_ms_Current_millisecond" xml:space="preserve">
-    <value>мс</value>
-  </data>
-  <data name="ResponseType_RedirectionURL" xml:space="preserve">
-    <value>Redirection URL</value>
+    <value>Поточна мілісекунда</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %ms - Millisecond</comment>
   </data>
   <data name="DownloaderForm_fileDownloader_DownloadCompleted_Install" xml:space="preserve">
     <value>Встановити</value>
   </data>
   <data name="AfterCaptureTasks_UploadImageToHost" xml:space="preserve">
     <value>Вивантажити зображення на сервер</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ix_Auto_increment_hexadecimal" xml:space="preserve">
-    <value>Auto increment hexadecimal. 0 pad left using {n}</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_FolderUpload" xml:space="preserve">
     <value>Вивантажити теку</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_mi_Current_minute" xml:space="preserve">
-    <value>хв</value>
+    <value>Поточна хвилина</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %mi - Minute</comment>
   </data>
   <data name="ShapeType_EffectPixelate" xml:space="preserve">
     <value>Пікселізація (P)</value>
   </data>
   <data name="ReplCodeMenuEntry_d_Current_day" xml:space="preserve">
-    <value>день</value>
+    <value>Поточний день</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %d - Day</comment>
   </data>
   <data name="PastebinExpiration_D1" xml:space="preserve">
     <value>1 день</value>
@@ -284,51 +310,63 @@
   </data>
   <data name="HotkeyType_CaptureWebpage_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_FileUpload_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_with_error_code_" xml:space="preserve">
     <value>Збій налаштування DNS з кодом помилки:</value>
+    <comment>+</comment>
   </data>
   <data name="Extensions_AddContextMenu_Cut" xml:space="preserve">
     <value>Вирізати</value>
   </data>
   <data name="HotkeyType_StartScreenRecorderGIF_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="FileExistAction_Cancel" xml:space="preserve">
     <value>Не зберігати</value>
   </data>
   <data name="HotkeyType_IndexFolder_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="AfterCaptureTasks_CopyImageToClipboard" xml:space="preserve">
     <value>Копіювати зображення у буфер обміну</value>
+    <comment>+</comment>
   </data>
   <data name="PNGBitDepth_Bit32" xml:space="preserve">
     <value>32 біт</value>
   </data>
   <data name="HotkeyType_ScreenRecorderGIFActiveWindow" xml:space="preserve">
-    <value>Почати/зупинити запис області екрану з активним вікном (GIF)</value>
-  </data>
-  <data name="HotkeyType_PrintScreen" xml:space="preserve">
-    <value>Capture entire screen</value>
+    <value>Почати/Зупинити запис області екрану з активним вікном (GIF)</value>
+    <comment>+</comment>
   </data>
   <data name="ImageEditorStartMode_Normal" xml:space="preserve">
     <value>Звичайний</value>
   </data>
   <data name="HotkeyType_ScreenRecorderGIFCustomRegion" xml:space="preserve">
-    <value>Почати/зупинити запис налаштованої області екрану (GIF)</value>
+    <value>Почати/Зупинити запис налаштованої області екрану (GIF)</value>
+    <comment>+</comment>
   </data>
   <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set_" xml:space="preserve">
     <value>DNS вдало налаштовано.</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_CustomRegion" xml:space="preserve">
     <value>Захоплення попередньо налаштованої області</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuCategory_Image" xml:space="preserve">
     <value>Зображення</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Image</comment>
   </data>
   <data name="PastebinExpiration_M10" xml:space="preserve">
     <value>10 хвилин</value>
@@ -336,102 +374,91 @@
   <data name="RegionCaptureAction_SwapToolType" xml:space="preserve">
     <value>Змінити тип інструменту</value>
   </data>
-  <data name="HotkeyType_RectangleRegion" xml:space="preserve">
-    <value>Capture region</value>
-  </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
     <value>Вийти з ShareX</value>
+    <comment>+</comment>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
     <value>Доступна нова версія {0}.
-Чи хочете Ви завантажити її?</value>
+Чи хочете ви завантажити її?</value>
   </data>
   <data name="Helpers_DownloadString_Download_failed_" xml:space="preserve">
     <value>Збій завантаження:</value>
   </data>
   <data name="HotkeyType_OpenMainWindow_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ShapeType_DrawingTextOutline" xml:space="preserve">
     <value>Текст (контур) (O)</value>
   </data>
   <data name="ImgurThumbnailType_Small_Thumbnail" xml:space="preserve">
     <value>Мала мініатюра</value>
+    <comment>+</comment>
   </data>
   <data name="PrintForm_LoadSettings_Print" xml:space="preserve">
     <value>Друк</value>
-  </data>
-  <data name="GIFQuality_Bit4" xml:space="preserve">
-    <value>Octree quantizer 16 colors</value>
+    <comment>#TODO# іменник чи дієслово?</comment>
   </data>
   <data name="AfterUploadTasks_ShowAfterUploadWindow" xml:space="preserve">
-    <value>Показати вікно „Після вивантаження“</value>
+    <value>Показати вікно "Після вивантаження"</value>
+    <comment>+</comment>
   </data>
   <data name="Start" xml:space="preserve">
     <value>Почати</value>
-  </data>
-  <data name="FileDestination_CustomFileUploader" xml:space="preserve">
-    <value>Custom file uploader</value>
+    <comment>Tools -&gt; Hash check... -&gt; (ґудзик) Check -&gt; на місці Check з'явиться Start</comment>
   </data>
   <data name="HotkeyType_TweetMessage_Category" xml:space="preserve">
-    <value>Інструменти</value>
+    <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="LinearGradientMode_Vertical" xml:space="preserve">
     <value>Вертикаль</value>
   </data>
-  <data name="ReplCodeMenuCategory_Random" xml:space="preserve">
-    <value>Random</value>
-  </data>
   <data name="CustomUploaderDestinationType_ImageUploader" xml:space="preserve">
-    <value>Вивантажувач зображення</value>
-  </data>
-  <data name="HotkeyType_HashCheck" xml:space="preserve">
-    <value>Hash check</value>
+    <value>Вивантажувач зображень</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ScreenRecorderActiveWindow" xml:space="preserve">
-    <value>Почати/зупинити запис області екрану з активним вікном</value>
+    <value>Почати/Зупинити запис області екрану з активним вікном</value>
+    
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ImageEditor_Category" xml:space="preserve">
     <value>Інструменти</value>
-  </data>
-  <data name="ReplCodeMenuEntry_rn_Random_number_0_to_9" xml:space="preserve">
-    <value>Random number 0 to 9. Repeat using {n}</value>
-  </data>
-  <data name="HotkeyType_ClipboardUploadWithContentViewer" xml:space="preserve">
-    <value>Upload from clipboard with content viewer</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="YouTubeVideoPrivacy_Public" xml:space="preserve">
     <value>Відкритий доступ</value>
   </data>
-  <data name="HSB_ToString_" xml:space="preserve">
-    <value>Hue: {0:0.0}°, Saturation: {1:0.0}%, Brightness: {2:0.0}%</value>
-  </data>
   <data name="MyMessageBox_MyMessageBox_OK" xml:space="preserve">
     <value>Гаразд</value>
-  </data>
-  <data name="HotkeyType_DragDropUpload" xml:space="preserve">
-    <value>Drag and drop upload</value>
+    <comment>+</comment>
   </data>
   <data name="PastebinExpiration_N" xml:space="preserve">
     <value>Ніколи</value>
   </data>
   <data name="HotkeyType_StartScreenRecorder" xml:space="preserve">
-    <value>Почати/зупинити запис останньої області екрану</value>
+    <value>Почати/Зупинити запис останньої області екрану</value>
+    <comment>+</comment>
   </data>
   <data name="MyMessageBox_MyMessageBox_Yes" xml:space="preserve">
     <value>Так</value>
   </data>
   <data name="ReplCodeMenuEntry_mon_Current_month_name__Local_language_" xml:space="preserve">
-    <value>Назва місяця (місцевою мовою)</value>
+    <value>Назва поточного місяця (Мовою системи)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %mon - Month name (Local language)</comment>
   </data>
   <data name="ShapeType_ToolSelect" xml:space="preserve">
     <value>Вибрати та перемістити (M)</value>
   </data>
   <data name="HotkeyType_RectangleRegion_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
-  </data>
-  <data name="GIFQuality_Bit8" xml:space="preserve">
-    <value>Octree quantizer 256 colors (Slow encoding but better quality)</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ShapeType_DrawingImage" xml:space="preserve">
     <value>Зображення (файл)</value>
@@ -439,17 +466,17 @@
   <data name="ScreenRecordGIFEncoding_NET" xml:space="preserve">
     <value>.NET (погана якість)</value>
   </data>
-  <data name="ReplCodeMenuEntry_ia_Auto_increment_alphanumeric" xml:space="preserve">
-    <value>Auto increment alphanumeric case-insensitive. 0 pad left using {n}</value>
-  </data>
   <data name="HotkeyType_ClipboardUploadWithContentViewer_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="DNSChangerForm_DNSChangerForm_Manual" xml:space="preserve">
     <value>Вручну</value>
   </data>
   <data name="AfterCaptureTasks_AddImageEffects" xml:space="preserve">
-    <value>Додати ефекти/водяний знак</value>
+    <value>Додати ефекти зображення</value>
+    <comment>+</comment>
   </data>
   <data name="AfterCaptureTasks_DeleteFile" xml:space="preserve">
     <value>Видалити файл локально</value>
@@ -457,26 +484,26 @@
   <data name="ExportImportControl_Serialize_Export_failed_" xml:space="preserve">
     <value>Збій експорту.</value>
   </data>
-  <data name="ReplCodeMenuCategory_Computer" xml:space="preserve">
-    <value>Computer</value>
-  </data>
   <data name="HotkeyType_RectangleTransparent_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="FileExistAction_UniqueName" xml:space="preserve">
-    <value>Додати номер до назви файла</value>
+    <value>Додати номер до назви файлу</value>
   </data>
   <data name="ImgurThumbnailType_Large_Thumbnail" xml:space="preserve">
     <value>Велика мінатюра</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ImageCombiner_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ReplCodeMenuEntry_yy_Current_year__2_digits_" xml:space="preserve">
-    <value>Рік (2 цифри)</value>
-  </data>
-  <data name="ReplCodeMenuEntry_i_Auto_increment_number" xml:space="preserve">
-    <value>Auto increment number. 0 pad left using {n}</value>
+    <value>Поточний рік (2 цифри)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %yy - Year (2 digits)</comment>
   </data>
   <data name="PNGBitDepth_Automatic" xml:space="preserve">
     <value>Автоматичне визначення</value>
@@ -486,6 +513,8 @@
   </data>
   <data name="HotkeyType_VideoThumbnailer_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ShapeType_RegionEllipse" xml:space="preserve">
     <value>Еліптична область</value>
@@ -494,61 +523,68 @@
     <value>Видалити</value>
   </data>
   <data name="HotkeyType_DNSChanger" xml:space="preserve">
-    <value>Замінювач DNS</value>
+    <value>Зміна DNS</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_Ruler_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ScreenRecorderGIF" xml:space="preserve">
-    <value>Почати/зупинити запис області екрану (GIF)</value>
+    <value>Почати/Зупинити запис екрану (GIF)</value>
+    
+    <comment>+</comment>
   </data>
   <data name="Extensions_AddContextMenu_SelectAll" xml:space="preserve">
     <value>Вибрати все</value>
   </data>
   <data name="AfterCaptureTasks_DoOCR" xml:space="preserve">
     <value>Розпізнати текст (OCR)</value>
-  </data>
-  <data name="HotkeyType_Ruler" xml:space="preserve">
-    <value>Ruler</value>
-  </data>
-  <data name="ExportImportControl_tsmiImportURL_Click_URL_to_download_settings_from" xml:space="preserve">
-    <value>URL to download settings from</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_DrawingFreehand" xml:space="preserve">
     <value>Від руки (F)</value>
   </data>
   <data name="HotkeyType_StartScreenRecorder_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="DirectoryNameEditor_EditValue_Browse_for_a_folder___" xml:space="preserve">
     <value>Огляд тек...</value>
+    <comment>+</comment>
   </data>
   <data name="LinearGradientMode_BackwardDiagonal" xml:space="preserve">
     <value>Зворотна діагональ</value>
   </data>
   <data name="HotkeyType_ShortenURL_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ScreenRecorderGIFActiveWindow_Category" xml:space="preserve">
     <value>Запис екрану</value>
-  </data>
-  <data name="ResponseType_Text" xml:space="preserve">
-    <value>Response text</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ShapeType_DrawingCursor" xml:space="preserve">
     <value>Курсор</value>
   </data>
   <data name="ImgurThumbnailType_Huge_Thumbnail" xml:space="preserve">
     <value>Величезна мініатюра</value>
+    <comment>+</comment>
   </data>
   <data name="LinearGradientMode_Horizontal" xml:space="preserve">
     <value>Горизонталь</value>
   </data>
   <data name="HotkeyType_AbortScreenRecording" xml:space="preserve">
     <value>Перервати запис екрану</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_y_Current_year" xml:space="preserve">
-    <value>Рік</value>
+    <value>Поточний рік</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %y - Year</comment>
   </data>
   <data name="PastebinExpiration_W2" xml:space="preserve">
     <value>2 тижні</value>
@@ -557,49 +593,52 @@
     <value>Повноекранний</value>
   </data>
   <data name="AfterCaptureTasks_CopyFilePathToClipboard" xml:space="preserve">
-    <value>Копіювати шлях до файла у буфер обміну</value>
+    <value>Копіювати шлях до файлу у буфер обміну</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ScreenRecorder" xml:space="preserve">
-    <value>Почати/зупинити запис області екрану</value>
+    <value>Почати/Зупинити запис екрану</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_OpenScreenshotsFolder_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="AfterCaptureTasks_SaveImageToFile" xml:space="preserve">
     <value>Зберегти зображення в файл</value>
   </data>
   <data name="ActionsCodeMenuEntry_OutputFilePath_File_path_without_extension____Output_file_name_extension_" xml:space="preserve">
-    <value>Шлях до файла без розширення + „Розширення кінцевого файла“</value>
+    <value>Шлях до файлу без розширення та розширення вихідного файлу</value>
+    <comment>+</comment>
   </data>
   <data name="URLSharingServices_GoogleImageSearch" xml:space="preserve">
     <value>Зображення Google</value>
   </data>
   <data name="HotkeyType_RectangleLight_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
-  </data>
-  <data name="HotkeyType_IndexFolder" xml:space="preserve">
-    <value>Index folder</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_WindowRectangle_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ReplCodeMenuEntry_unix_Unix_timestamp" xml:space="preserve">
     <value>Позначка часу Unix</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %unix - Unix timestamp</comment>
   </data>
   <data name="ScreenRecordGIFEncoding_FFmpeg" xml:space="preserve">
     <value>FFmpeg (гарна якість)</value>
   </data>
-  <data name="HotkeyType_TweetMessage" xml:space="preserve">
-    <value>Tweet message</value>
-  </data>
-  <data name="HotkeyType_StopUploads" xml:space="preserve">
-    <value>Stop all active uploads</value>
-  </data>
   <data name="AfterUploadTasks_OpenURL" xml:space="preserve">
     <value>Відкрити посилання</value>
+    <comment>+</comment>
   </data>
   <data name="AfterCaptureTasks_AnnotateImage" xml:space="preserve">
-    <value>Відкрити у редакторі зображень</value>
+    <value>Відкрити у виправнику зображень</value>
+    <comment>+</comment>
   </data>
   <data name="MyPictureBox_LoadImageAsync_Loading_image___" xml:space="preserve">
     <value>Завантаження зображення...</value>
@@ -607,56 +646,54 @@
   <data name="ScrollingCaptureScrollTopMethod_KeyPressHome" xml:space="preserve">
     <value>Імітувати натискання клавіші «Home»</value>
   </data>
-  <data name="DownloaderForm_ChangeProgress_Progress" xml:space="preserve">
-    <value>Progress: {0:0.0}%
-Download speed: {1:0.0} KB/s
-File size: {2:n0} / {3:n0} KB</value>
-  </data>
-  <data name="HotkeyType_LastRegion" xml:space="preserve">
-    <value>Capture last region</value>
-  </data>
   <data name="Helpers_OpenFolder_Folder_not_exist_" xml:space="preserve">
     <value>Тека не існує:</value>
+    <comment>+</comment>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_CurrentVersion" xml:space="preserve">
     <value>Поточна версія</value>
   </data>
   <data name="HotkeyType_ActiveMonitor_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="FileDestination_Email" xml:space="preserve">
     <value>Ел. пошта</value>
   </data>
   <data name="HotkeyType_ScreenRecorderActiveWindow_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_" xml:space="preserve">
     <value>Доступна нова версія {0}.
-Чи хочете Ви завантажити і встановити її?</value>
+Чи хочете ви завантажити і встановити її?</value>
   </data>
   <data name="HotkeyType_ScreenRecorderGIF_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="WavFileNameEditor_EditValue_Browse_for_a_sound_file___" xml:space="preserve">
     <value>Знайти звуковий файл...</value>
   </data>
   <data name="HotkeyType_ScrollingCapture_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_CustomRegion_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="Helpers_OpenFile_File_not_exist_" xml:space="preserve">
     <value>Файл не існує:</value>
   </data>
   <data name="Helpers_BrowseFolder_Choose_folder" xml:space="preserve">
-    <value>Оберіть теку</value>
-  </data>
-  <data name="ExportImportControl_Deserialize_Import_failed_" xml:space="preserve">
-    <value>Import failed.</value>
-  </data>
-  <data name="HotkeyType_QRCode" xml:space="preserve">
-    <value>QR code</value>
+    <value>Виберіть теку</value>
+    <comment>+</comment>
   </data>
   <data name="Extensions_AddContextMenu_Paste" xml:space="preserve">
     <value>Вставити</value>
@@ -669,21 +706,24 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="HotkeyType_OpenImageHistory" xml:space="preserve">
     <value>Відкрити вікно історії зображень</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuCategory_Incremental" xml:space="preserve">
     <value>Лічильник</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental</comment>
   </data>
   <data name="AfterCaptureTasks_SaveThumbnailImageToFile" xml:space="preserve">
-    <value>Зберегти мініатюру зображення у файл</value>
-  </data>
-  <data name="DownloaderForm_StartDownload_Downloading_" xml:space="preserve">
-    <value>Downloading.</value>
+    <value>Зберегти зображення-мініатюру у файл</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_un_User_name" xml:space="preserve">
     <value>Ім’я користувача</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Computer -&gt; %un - User name</comment>
   </data>
   <data name="HotkeyType_HashCheck_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="DownloaderForm_ChangeStatus_Status___0_" xml:space="preserve">
     <value>Стан: {0}</value>
@@ -693,45 +733,45 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="ShapeType_DrawingSticker" xml:space="preserve">
     <value>Наліпка</value>
+    <comment>+</comment>
   </data>
   <data name="PastebinExpiration_W1" xml:space="preserve">
     <value>1 тиждень</value>
   </data>
   <data name="CustomUploaderDestinationType_URLSharingService" xml:space="preserve">
-    <value>Служба обміну посиланнями</value>
+    <value>Обмінювач</value>
+    <comment>+</comment>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Автоматично спробувати всі методи, поки один не запрацює</value>
   </data>
   <data name="AfterCaptureTasks_ShowBeforeUploadWindow" xml:space="preserve">
-    <value>Показати вікно „Перед захопленням“</value>
+    <value>Показати вікно "Перед вивантаженням"</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_EffectHighlight" xml:space="preserve">
     <value>Підсвічування (Р)</value>
   </data>
-  <data name="GIFQuality_Grayscale" xml:space="preserve">
-    <value>Palette quantizer grayscale 256 colors</value>
-  </data>
   <data name="HotkeyType_DragDropUpload_Category" xml:space="preserve">
     <value>Вивантажити</value>
-  </data>
-  <data name="GIFQuality_Default" xml:space="preserve">
-    <value>Default .NET encoding (Fast encoding but average quality)</value>
-  </data>
-  <data name="ReplCodeMenuEntry_rx_Random_hexadecimal" xml:space="preserve">
-    <value>Random hexadecimal char. Repeat using {n}</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ClipboardUpload_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="ScrollingCaptureScrollMethod_MouseWheel" xml:space="preserve">
     <value>Імітувати прокручування коліщатка миші</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Помилка</value>
+    <comment>+</comment>
   </data>
   <data name="URLSharingServices_CustomURLSharingService" xml:space="preserve">
-    <value>Користувацька служба обміну посиланнями</value>
+    <value>Користувацький обмінювач</value>
+    <comment>+</comment>
   </data>
   <data name="RegionCaptureAction_CaptureFullscreen" xml:space="preserve">
     <value>Захоплення всього екрану</value>
@@ -741,57 +781,68 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_" xml:space="preserve">
     <value>Збій налаштування DNS.</value>
+    <comment>+</comment>
   </data>
   <data name="DownloaderForm_DownloaderForm_Waiting_" xml:space="preserve">
     <value>Очікування.</value>
   </data>
   <data name="HotkeyType_ImageEditor" xml:space="preserve">
-    <value>Редактор зображень</value>
+    <value>Виправник зображень</value>
+    <comment>+</comment>
   </data>
   <data name="URLSharingServices_Email" xml:space="preserve">
     <value>Ел. пошта</value>
   </data>
   <data name="HotkeyType_OpenHistory" xml:space="preserve">
     <value>Відкрити вікно історії</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_UploadURL_Category" xml:space="preserve">
     <value>Вивантажити</value>
-  </data>
-  <data name="ResponseType_Headers" xml:space="preserve">
-    <value>Response headers</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Auto increment by base {n} using alphanumeric (1 &lt; n &lt; 63)</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_AbortScreenRecording_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_CaptureWebpage" xml:space="preserve">
     <value>Захоплення веб-сторінки</value>
+    <comment>+</comment>
   </data>
   <data name="RegionCaptureAction_CancelCapture" xml:space="preserve">
     <value>Скасувати захоплення</value>
   </data>
   <data name="HotkeyType_RectangleLight" xml:space="preserve">
-    <value>Захоплення області (спрощено)</value>
+    <value>Захоплення області (Спрощено)</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_MonitorTest_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ScreenRecorderGIFCustomRegion_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_FileUpload" xml:space="preserve">
     <value>Вивантажити файл</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>Випадковий GUID</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %guid - Random GUID</comment>
   </data>
   <data name="ShapeType_DrawingLine" xml:space="preserve">
     <value>Лінія (L)</value>
   </data>
   <data name="HotkeyType_StopUploads_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="PopUpNotificationType_ToastNotification" xml:space="preserve">
     <value>Показати сповіщення з попереднім переглядом</value>
@@ -799,20 +850,22 @@ File size: {2:n0} / {3:n0} KB</value>
   <data name="AfterCaptureTasks_ShowInExplorer" xml:space="preserve">
     <value>Показати файл у провіднику</value>
   </data>
-  <data name="ImageDestination_CustomImageUploader" xml:space="preserve">
-    <value>Custom image uploader</value>
-  </data>
   <data name="HotkeyType_PrintScreen_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_AutoCapture_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="MyMessageBox_MyMessageBox_No" xml:space="preserve">
     <value>Ні</value>
   </data>
   <data name="HotkeyType_ActiveWindow" xml:space="preserve">
     <value>Захоплення активного вікна</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_DrawingStep" xml:space="preserve">
     <value>Крок (I)</value>
@@ -822,60 +875,66 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="HotkeyType_ClipboardUpload" xml:space="preserve">
     <value>Вивантажити з буфера обміну</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_n_New_line" xml:space="preserve">
     <value>Новий рядок</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt;  -&gt; %n - New line</comment>
   </data>
   <data name="ScrollingCaptureScrollTopMethod_None" xml:space="preserve">
     <value>Вимкнути прокручування вгору</value>
   </data>
   <data name="ReplCodeMenuEntry_pn_Process_name_of_active_window" xml:space="preserve">
-    <value>Назва процесу вікна</value>
+    <value>Назва процесу активного вікна</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Window -&gt; %pn - Process name of window</comment>
   </data>
   <data name="ReplCodeMenuEntry_mon2_Current_month_name__English_" xml:space="preserve">
-    <value>Назва місяця (англійською)</value>
-  </data>
-  <data name="HotkeyType_OpenScreenshotsFolder" xml:space="preserve">
-    <value>Open screenshots folder</value>
+    <value>Назва поточного місяця (Англійською)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %mon2 - Month name (English)</comment>
   </data>
   <data name="ReplCodeMenuEntry_width_Gets_image_width" xml:space="preserve">
     <value>Ширина зображення</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Image -&gt; %width - Image width</comment>
   </data>
   <data name="PopUpNotificationType_BalloonTip" xml:space="preserve">
-    <value>Показати зринаючу підказку</value>
+    <value>Показати зринаючу пораду</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_w2_Current_week_name__English_" xml:space="preserve">
-    <value>Назва дня тижня (англійською)</value>
-  </data>
-  <data name="CMYK_ToString_Cyan___0_0_0____Magenta___1_0_0____Yellow___2_0_0____Key___3_0_0__" xml:space="preserve">
-    <value>Cyan: {0:0.0}%, Magenta: {1:0.0}%, Yellow: {2:0.0}%, Key: {3:0.0}%</value>
+    <value>Назва поточного дня тижня (Англійською)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %w2 - Week name (English)</comment>
   </data>
   <data name="ExeFileNameEditor_EditValue_Browse_for_executable___" xml:space="preserve">
     <value>Огляд виконуваних файлів...</value>
-  </data>
-  <data name="ImageDestination_FileUploader" xml:space="preserve">
-    <value>File uploader</value>
   </data>
   <data name="ImageEditorStartMode_AutoSize" xml:space="preserve">
     <value>Автоматичний розмір</value>
   </data>
   <data name="HotkeyType_ExitShareX_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ActiveWindow_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_None" xml:space="preserve">
-    <value>Немає</value>
+    <value>Нічого</value>
+    <comment>+</comment>
   </data>
   <data name="PNGBitDepth_Default" xml:space="preserve">
     <value>Типово</value>
+    <comment>+</comment>
   </data>
   <data name="Helpers_CreateDirectoryIfNotExist_Create_failed_" xml:space="preserve">
     <value>Неможливо створити теку.</value>
+    <comment>+</comment>
   </data>
   <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set__Reboot_is_required_" xml:space="preserve">
-    <value>DNS вдалоналаштовано. Потрібне перезавантаження.</value>
+    <value>DNS вдало налаштовано. Потрібне перезавантаження.</value>
+    <comment>+</comment>
   </data>
   <data name="ProxyMethod_Manual" xml:space="preserve">
     <value>Вручну</value>
@@ -884,7 +943,8 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Малий квадрат</value>
   </data>
   <data name="HotkeyType_MonitorTest" xml:space="preserve">
-    <value>Тест монітора</value>
+    <value>Перевірка монітору</value>
+    <comment>+</comment>
   </data>
   <data name="Extensions_AddContextMenu_Copy" xml:space="preserve">
     <value>Копіювати</value>
@@ -894,60 +954,65 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="AfterUploadTasks_UseURLShortener" xml:space="preserve">
     <value>Скоротити посилання</value>
+    <comment>+</comment>
   </data>
   <data name="DownloaderForm_StartDownload_Cancel" xml:space="preserve">
     <value>Скасувати</value>
   </data>
   <data name="HotkeyType_ColorPicker_Category" xml:space="preserve">
     <value>Інструменти</value>
-  </data>
-  <data name="FileDestination_SharedFolder" xml:space="preserve">
-    <value>Shared folder</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_ActiveMonitor" xml:space="preserve">
     <value>Захоплення активного монітора</value>
+    <comment>+</comment>
   </data>
   <data name="AfterCaptureTasks_ScanQRCode" xml:space="preserve">
-    <value>Відсканувати QR-код</value>
-  </data>
-  <data name="DownloaderForm_StartDownload_Getting_file_size_" xml:space="preserve">
-    <value>Getting file size.</value>
+    <value>Відсканувати швидківку</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ToggleActionsToolbar_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="DownloaderForm_DownloaderForm_Filename___0_" xml:space="preserve">
-    <value>Назва файла: {0}</value>
+    <value>Назва файлу: {0}</value>
   </data>
   <data name="ShapeType_DrawingEllipse" xml:space="preserve">
     <value>Еліпс (E)</value>
   </data>
   <data name="HotkeyType_ColorPicker" xml:space="preserve">
     <value>Вибір кольору</value>
+    <comment>+</comment>
   </data>
   <data name="Stop" xml:space="preserve">
     <value>Зупинити</value>
+    <comment>+</comment>
   </data>
   <data name="TextDestination_FileUploader" xml:space="preserve">
     <value>Вивантажувач файлів</value>
-  </data>
-  <data name="MyPictureBox_pbMain_LoadProgressChanged_Loading_image___0__" xml:space="preserve">
-    <value>Loading image: {0}%</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ra_Random_alphanumeric_char" xml:space="preserve">
-    <value>Random alphanumeric char. Repeat using {n}</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_StartAutoCapture_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="CodeMenuEntryFilename_RandomAnimal" xml:space="preserve">
-    <value>Випадкова тварина</value>
+    <value>Випадкова тварина (англійською)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %ranimal - Random animal</comment>
   </data>
   <data name="HotkeyType_ScreenRecorderCustomRegion_Category" xml:space="preserve">
     <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_DisableHotkeys" xml:space="preserve">
-    <value>Вимкнути/увімкнути поєднання клавіш</value>
+    <value>Вимкнути/Увімкнути гарячі клавіші</value>
+    
+    <comment>+</comment>
   </data>
   <data name="RegionCaptureAction_None" xml:space="preserve">
     <value>Нічого не робити</value>
@@ -957,21 +1022,22 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="HotkeyType_OpenHistory_Category" xml:space="preserve">
     <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="RegionCaptureAction_RemoveShape" xml:space="preserve">
     <value>Вилучити фігуру</value>
   </data>
-  <data name="ResponseType_LocationHeader" xml:space="preserve">
-    <value>Location header</value>
-  </data>
   <data name="ActionsCodeMenuEntry_FilePath_File_path" xml:space="preserve">
-    <value>Шлях до файла</value>
+    <value>Шлях до файлу</value>
   </data>
   <data name="SupportedLanguage_Automatic" xml:space="preserve">
     <value>Автоматично</value>
   </data>
   <data name="HotkeyType_ImageEffects_Category" xml:space="preserve">
     <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="RegionCaptureAction_CaptureActiveMonitor" xml:space="preserve">
     <value>Захоплення активного монітора</value>
@@ -981,18 +1047,19 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="FolderSelectDialog_Title_Select_a_folder" xml:space="preserve">
     <value>Оберіть теку</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_OpenMainWindow" xml:space="preserve">
     <value>Відкрити головне вікно</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_ScreenColorPicker" xml:space="preserve">
     <value>Вибір кольору з екрана</value>
-  </data>
-  <data name="PrintTextForm_LoadSettings_Name___0___Size___1_" xml:space="preserve">
-    <value>Name: {0}, Size: {1}</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_AutoCapture" xml:space="preserve">
     <value>Автоматичне захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_DrawingRectangle" xml:space="preserve">
     <value>Прямокутник (R)</value>
@@ -1001,16 +1068,16 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Максимізований</value>
   </data>
   <data name="HotkeyType_ScreenRecorderCustomRegion" xml:space="preserve">
-    <value>Почати/зупинити запис налаштованої області екрану</value>
-  </data>
-  <data name="ScreenRecordGIFEncoding_OctreeQuantizer" xml:space="preserve">
-    <value>Octree quantizer (середня якість)</value>
+    <value>Почати/Зупинити запис налаштованої області екрану</value>
+    
+    <comment>+</comment>
   </data>
   <data name="Helpers_BrowseFile_Choose_file" xml:space="preserve">
     <value>Оберіть файл</value>
   </data>
   <data name="ReplCodeMenuEntry_height_Gets_image_height" xml:space="preserve">
     <value>Висота зображення</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Image -&gt; %height - Image height</comment>
   </data>
   <data name="PastebinExpiration_M1" xml:space="preserve">
     <value>1 місяць</value>
@@ -1020,9 +1087,8 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="HotkeyType_LastRegion_Category" xml:space="preserve">
     <value>Захоплення екрана</value>
-  </data>
-  <data name="UrlShortenerType_CustomURLShortener" xml:space="preserve">
-    <value>Custom URL shortener</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="PopUpNotificationType_None" xml:space="preserve">
     <value>Нічого не показувати</value>
@@ -1035,9 +1101,11 @@ File size: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="HotkeyType_ShortenURL" xml:space="preserve">
     <value>Скоротити посилання</value>
+    <comment>Hotkey settings... -&gt; Add... -&gt; Task -&gt; Task: -&gt; None -&gt; Upload -&gt; Shorten URL</comment>
   </data>
   <data name="CustomUploaderDestinationType_TextUploader" xml:space="preserve">
     <value>Вивантажувач тексту</value>
+    <comment>+</comment>
   </data>
   <data name="FileExistAction_Ask" xml:space="preserve">
     <value>Запитати, що робити</value>
@@ -1046,43 +1114,54 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Остання версія</value>
   </data>
   <data name="AfterCaptureTasks_ShowAfterCaptureWindow" xml:space="preserve">
-    <value>Показати вікно „Після захоплення“</value>
+    <value>Показати вікно "Після захоплення"</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyType_UploadText_Category" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
   </data>
   <data name="HotkeyType_UploadText" xml:space="preserve">
     <value>Вивантажити текст</value>
+    <comment>+</comment>
   </data>
   <data name="ShapeType_ToolCrop" xml:space="preserve">
     <value>Обрізка зображення (C)</value>
   </data>
   <data name="HotkeyType_UploadURL" xml:space="preserve">
     <value>Вивантажити з посилання</value>
+    <comment>+</comment>
   </data>
   <data name="AfterUploadTasks_CopyURLToClipboard" xml:space="preserve">
-    <value>Копіювати посилання у буфер обміну</value>
+    <value>Скопіювати посилання у буфер обміну</value>
+    <comment>+</comment>
   </data>
   <data name="ReplCodeMenuEntry_cn_Computer_name" xml:space="preserve">
     <value>Назва компʼютера</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Computer -&gt; %cn - Computer name</comment>
   </data>
   <data name="HotkeyType_StartAutoCapture" xml:space="preserve">
     <value>Почати автоматичне захоплення останньої області</value>
+    <comment>+</comment>
   </data>
   <data name="ImgurThumbnailType_Medium_Thumbnail" xml:space="preserve">
     <value>Середня мініатюра</value>
+    <comment>+</comment>
   </data>
   <data name="Extensions_AddContextMenu_Undo" xml:space="preserve">
     <value>Скасувати</value>
   </data>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Копіювати файл у буфер обміну</value>
+    <comment>+</comment>
   </data>
   <data name="ScrollingCaptureScrollMethod_KeyPressPageDown" xml:space="preserve">
     <value>Імітувати натискання клавіші «Page Down»</value>
   </data>
   <data name="ReplCodeMenuEntry_wy_Week_of_year" xml:space="preserve">
-    <value>Тиждень року</value>
+    <value>Поточний тиждень року</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %wy - Week of year</comment>
   </data>
   <data name="ObjectListView_ObjectListView_Copy_name" xml:space="preserve">
     <value>Копіювати назву</value>
@@ -1090,10 +1169,626 @@ File size: {2:n0} / {3:n0} KB</value>
   <data name="ObjectListView_ObjectListView_Copy_value" xml:space="preserve">
     <value>Копіювати значення</value>
   </data>
-  <data name="ObjectListView_ObjectListView_Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
   <data name="ObjectListView_ObjectListView_Value" xml:space="preserve">
     <value>Значення</value>
+  </data>
+  <data name="HotkeyType_ClipboardViewer" xml:space="preserve">
+    <value>Буфер обміну</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PauseScreenRecording" xml:space="preserve">
+    <value>Призупинити запис екрану</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_StartScreenRecorderGIF" xml:space="preserve">
+    <value>Почати/Зупинити запис останньої області екрану (GIF)</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_StopScreenRecording" xml:space="preserve">
+    <value>Зупинити запис екрану</value>
+    <comment>+</comment>
+  </data>
+  <data name="AfterCaptureTasks_PinToScreen" xml:space="preserve">
+    <value>Закріпити на екрані</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PinToScreen" xml:space="preserve">
+    <value>Закріпити на екрані</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PinToScreenFromClipboard" xml:space="preserve">
+    <value>Закріпити на екрані (З буферу обміна)</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PinToScreenFromFile" xml:space="preserve">
+    <value>Закріпити на екрані (З файлу)</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PinToScreenFromScreen" xml:space="preserve">
+    <value>Закріпити на екрані (З екрану)</value>
+    <comment>+</comment>
+  </data>
+  <data name="ToastClickAction_PinToScreen" xml:space="preserve">
+    <value>Закріпити на екрані</value>
+    <comment>+</comment>
+  </data>
+  <data name="ResponseType_Headers" xml:space="preserve">
+    <value>Заголовки відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="ResponseType_Text" xml:space="preserve">
+    <value>Текст відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="EDataType_Default" xml:space="preserve">
+    <value>Типово</value>
+    <comment>?#TODO# контекст</comment>
+  </data>
+  <data name="GIFQuality_Default" xml:space="preserve">
+    <value>Типове кодування .NET (швидке кодування, але середня якість)</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailViewClickAction_Default" xml:space="preserve">
+    <value>Типово</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_InspectWindow" xml:space="preserve">
+    <value>Оглянути вікно</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_ClipboardUploadWithContentViewer" xml:space="preserve">
+    <value>Вивантажити з буфера обміну з попереднім переглядом</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_OCR" xml:space="preserve">
+    <value>Оптичне розпізнавання тексту (OCR)</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_HashCheck" xml:space="preserve">
+    <value>Перевірка хешу</value>
+    <comment>+</comment>
+  </data>
+  <data name="DrawImageSizeMode_PercentageOfCanvas" xml:space="preserve">
+    <value>#TODO#_Відсоток полотна</value>
+  </data>
+  <data name="YouTubeVideoPrivacy_Private" xml:space="preserve">
+    <value>#TODO#_Рядовий</value>
+  </data>
+  <data name="ScrollingCaptureScrollTopMethod_All" xml:space="preserve">
+    <value>#TODO#_Спочатку імітуйте натискання клавіші "Додому", а потім відправте повідомлення зверху прокрутки</value>
+  </data>
+  <data name="ResponseType_RedirectionURL" xml:space="preserve">
+    <value>Посилання перенаправлення</value>
+    <comment>+</comment>
+  </data>
+  <data name="ShapeType_DrawingSmartEraser" xml:space="preserve">
+    <value>#TODO#_Розумна гумка</value>
+  </data>
+  <data name="PastebinPrivacy_Unlisted" xml:space="preserve">
+    <value>#TODO#_Не котирується на біржі</value>
+  </data>
+  <data name="HotkeyType_ImageThumbnailer_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_QRCodeDecodeFromScreen_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="CodeMenuEntryFilename_RandomAdjective" xml:space="preserve">
+    <value>Випадковий прикметник (англійською)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %radjective - Random adjective</comment>
+  </data>
+  <data name="HotkeyType_VideoConverter_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_ImageThumbnailer" xml:space="preserve">
+    <value>Генератор мініатюр зображень</value>
+    <comment>+</comment>
+  </data>
+  <data name="YouTubeVideoPrivacy_Unlisted" xml:space="preserve">
+    <value>#TODO#_Не котирується на біржі</value>
+  </data>
+  <data name="ReplCodeMenuCategory_Window" xml:space="preserve">
+    <value>Вікно</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Window</comment>
+  </data>
+  <data name="ExportImportControl_tsmiImportURL_Click_URL_to_download_settings_from" xml:space="preserve">
+    <value>Адреса для завантаження налаштувань</value>
+    <comment>+</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_pm_Gets_AM_PM" xml:space="preserve">
+    <value>AM якщо до дванадцятої, та PM після</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Date and time -&gt; %pm - AM/PM</comment>
+  </data>
+  <data name="DrawImageSizeMode_DontResize" xml:space="preserve">
+    <value>#TODO#_Не змінюйте розмір</value>
+  </data>
+  <data name="HotkeyType_QRCodeDecodeFromScreen" xml:space="preserve">
+    <value>Відсканувати з екрану швидківку</value>
+    <comment>+</comment>
+  </data>
+  <data name="DrawImageSizeMode_AbsoluteSize" xml:space="preserve">
+    <value>#TODO#_Абсолютний розмір</value>
+  </data>
+  <data name="RandomEmojiRepeatUsingN" xml:space="preserve">
+    <value>Випадкова емоційка (Повторення через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %remoji - Random emoji (Repeat using {n})</comment>
+  </data>
+  <data name="RegionCaptureAction_RemoveShapeCancelCapture" xml:space="preserve">
+    <value>#TODO#_Видалити фігуру або скасувати захоплення</value>
+  </data>
+  <data name="PastebinPrivacy_Private" xml:space="preserve">
+    <value>#TODO#_Закритий (тільки для учасників)</value>
+  </data>
+  <data name="ReplCodeMenuEntry_rf_Random_line_from_file" xml:space="preserve">
+    <value>Випадковий рядок з файлу (Використовуйте {filepath} для визначення шляху файлу)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %rf - Random line from a file (Use {filepath} to determine the file)</comment>
+  </data>
+  <data name="ScrollingCaptureScrollTopMethod_SendMessageTop" xml:space="preserve">
+    <value>#TODO#_Надіслати верхнє повідомлення прокрутки</value>
+  </data>
+  <data name="HotkeyType_VideoConverter" xml:space="preserve">
+    <value>Відеоконвертер</value>
+    <comment>+</comment>
+  </data>
+  <data name="RandomNonAmbiguousAlphanumericCharRepeatUsingN" xml:space="preserve">
+    <value>Випадковий не двозначний алфавітно-цифровий символ (Повторення через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %rna - Random non ambiguous alphanumeric char (Repeat using {n})</comment>
+  </data>
+  <data name="UrlShortenerType_CustomURLShortener" xml:space="preserve">
+    <value>Користувацький скорочувач посилань</value>
+    <comment>+</comment>
+  </data>
+  <data name="ScrollingCaptureScrollMethod_SendMessageScroll" xml:space="preserve">
+    <value>Надіслати повідомлення прокрутки у вікно або у елемент</value>
+    <comment>Capture -&gt; Scrolling capture -&gt; (категорія) While capturing -&gt; Scroll method: -&gt; Send scroll message to window or control
+control - https://discord.com/channels/194170124859736065/194170124859736065/1038521160184369212</comment>
+  </data>
+  <data name="DrawImageSizeMode_PercentageOfWatermark" xml:space="preserve">
+    <value>#TODO#_Відсоток зображення</value>
+  </data>
+  <data name="HotkeyType_ImageSplitter" xml:space="preserve">
+    <value>Роздільник зображення</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_ImageSplitter_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="ResultOfFirstFile" xml:space="preserve">
+    <value>#TODO#_Результат першої справи:</value>
+  </data>
+  <data name="ResultOfSecondFile" xml:space="preserve">
+    <value>#TODO#_Результат другого файлу:</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>#TODO#_Результат:</value>
+  </data>
+  <data name="Target" xml:space="preserve">
+    <value>#TODO#_Ціль:</value>
+  </data>
+  <data name="ArrowHeadDirection_End" xml:space="preserve">
+    <value>Кінець</value>
+    <comment>Capture -&gt; Region -&gt; Arrow -&gt; Tool options -&gt; Arrow head direction: -&gt; End</comment>
+  </data>
+  <data name="ArrowHeadDirection_Start" xml:space="preserve">
+    <value>Початок</value>
+    <comment>Capture -&gt; Region -&gt; Arrow -&gt; Tool options -&gt; Arrow head direction: -&gt; Start</comment>
+  </data>
+  <data name="ArrowHeadDirection_Both" xml:space="preserve">
+    <value>Обидва</value>
+    <comment>Capture -&gt; Region -&gt; Arrow -&gt; Tool options -&gt; Arrow head direction: -&gt; Both</comment>
+  </data>
+  <data name="StepType_LettersLowercase" xml:space="preserve">
+    <value>#TODO#_Літери (малі)</value>
+  </data>
+  <data name="StepType_LettersUppercase" xml:space="preserve">
+    <value>#TODO#_Літери (верхній регістр)</value>
+  </data>
+  <data name="StepType_Numbers" xml:space="preserve">
+    <value>#TODO#_Цифри</value>
+  </data>
+  <data name="StepType_RomanNumeralsLowercase" xml:space="preserve">
+    <value>#TODO#_Римські цифри (малі літери)</value>
+  </data>
+  <data name="StepType_RomanNumeralsUppercase" xml:space="preserve">
+    <value>#TODO#_Римські цифри (верхній регістр)</value>
+  </data>
+  <data name="HotkeyType_ClipboardViewer_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_InspectWindow_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="BorderStyle_Solid" xml:space="preserve">
+    <value>#TODO#_Солідний</value>
+  </data>
+  <data name="BorderStyle_Dash" xml:space="preserve">
+    <value>#TODO#_Тире</value>
+  </data>
+  <data name="BorderStyle_Dot" xml:space="preserve">
+    <value>#TODO#_Точка</value>
+  </data>
+  <data name="BorderStyle_DashDot" xml:space="preserve">
+    <value>#TODO#_DashDot</value>
+  </data>
+  <data name="BorderStyle_DashDotDot" xml:space="preserve">
+    <value>#TODO#_DashDotDot</value>
+  </data>
+  <data name="ToastClickAction_CloseNotification" xml:space="preserve">
+    <value>#TODO#_Закрити повідомлення</value>
+  </data>
+  <data name="ToastClickAction_AnnotateImage" xml:space="preserve">
+    <value>#TODO#_Редагувати зображення</value>
+  </data>
+  <data name="ToastClickAction_CopyImageToClipboard" xml:space="preserve">
+    <value>#TODO#_Копіювати зображення</value>
+  </data>
+  <data name="ToastClickAction_CopyFile" xml:space="preserve">
+    <value>#TODO#_Скопіювати файл</value>
+  </data>
+  <data name="ToastClickAction_CopyFilePath" xml:space="preserve">
+    <value>#TODO#_Скопіювати шлях до файлу</value>
+  </data>
+  <data name="ToastClickAction_CopyUrl" xml:space="preserve">
+    <value>#TODO#_Копіювати посилання</value>
+  </data>
+  <data name="ToastClickAction_OpenFile" xml:space="preserve">
+    <value>#TODO#_Відкрити файл</value>
+  </data>
+  <data name="ToastClickAction_OpenFolder" xml:space="preserve">
+    <value>Відкрити теку</value>
+    <comment>+</comment>
+  </data>
+  <data name="ToastClickAction_OpenUrl" xml:space="preserve">
+    <value>#TODO#_Відкрити посилання</value>
+  </data>
+  <data name="ToastClickAction_Upload" xml:space="preserve">
+    <value>#TODO#_Вивантажити файл</value>
+    <comment>#TODO# контекст</comment>
+  </data>
+  <data name="ContentAlignment_TopLeft" xml:space="preserve">
+    <value>#TODO#_Верхній лівий кут</value>
+  </data>
+  <data name="ContentAlignment_TopCenter" xml:space="preserve">
+    <value>#TODO#_Верхній центр</value>
+  </data>
+  <data name="ContentAlignment_TopRight" xml:space="preserve">
+    <value>#TODO#_Вгорі праворуч</value>
+  </data>
+  <data name="ContentAlignment_MiddleLeft" xml:space="preserve">
+    <value>#TODO#_Посередині зліва</value>
+  </data>
+  <data name="ContentAlignment_MiddleCenter" xml:space="preserve">
+    <value>#TODO#_Середній центр</value>
+  </data>
+  <data name="ContentAlignment_MiddleRight" xml:space="preserve">
+    <value>#TODO#_Посередині праворуч</value>
+  </data>
+  <data name="ContentAlignment_BottomLeft" xml:space="preserve">
+    <value>#TODO#_Внизу зліва</value>
+  </data>
+  <data name="ContentAlignment_BottomCenter" xml:space="preserve">
+    <value>#TODO#_Нижній центр</value>
+  </data>
+  <data name="ContentAlignment_BottomRight" xml:space="preserve">
+    <value>#TODO#_Внизу праворуч</value>
+  </data>
+  <data name="URLSharingServices_BingVisualSearch" xml:space="preserve">
+    <value>#TODO#_Візуальний пошук Bing</value>
+  </data>
+  <data name="EDataType_File" xml:space="preserve">
+    <value>#TODO#_Файл</value>
+    <comment>History... -&gt; (зверху) Advanced search... -&gt; Type: -&gt; File</comment>
+  </data>
+  <data name="EDataType_Image" xml:space="preserve">
+    <value>#TODO#_Зображення</value>
+    <comment>History... -&gt; (зверху) Advanced search... -&gt; Type: -&gt; Image</comment>
+  </data>
+  <data name="EDataType_Text" xml:space="preserve">
+    <value>#TODO#_Текст</value>
+    <comment>History... -&gt; (зверху) Advanced search... -&gt; Type: -&gt; Text</comment>
+  </data>
+  <data name="EDataType_URL" xml:space="preserve">
+    <value>#TODO#_Посилання</value>
+    <comment>History... -&gt; (зверху) Advanced search... -&gt; Type: -&gt; URL</comment>
+  </data>
+  <data name="RegionCaptureAction_CaptureLastRegion" xml:space="preserve">
+    <value>#TODO#_Capture last region</value>
+  </data>
+  <data name="HotkeyType_StopScreenRecording_Category" xml:space="preserve">
+    <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_ToggleTrayMenu" xml:space="preserve">
+    <value>Перемикнути меню трея</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_ToggleTrayMenu_Category" xml:space="preserve">
+    <value>Інші</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="ThumbnailViewClickAction_EditImage" xml:space="preserve">
+    <value>#TODO#_Редагувати зображення</value>
+  </data>
+  <data name="ThumbnailViewClickAction_OpenFile" xml:space="preserve">
+    <value>#TODO#_Відкрити файл</value>
+  </data>
+  <data name="ThumbnailViewClickAction_OpenFolder" xml:space="preserve">
+    <value>Відкрити теку</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailViewClickAction_OpenImageViewer" xml:space="preserve">
+    <value>Відкрити переглядач зображень</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailViewClickAction_OpenURL" xml:space="preserve">
+    <value>Відкрити посилання</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailViewClickAction_Select" xml:space="preserve">
+    <value>#TODO#_Виберіть</value>
+  </data>
+  <data name="ImagePreviewLocation_Bottom" xml:space="preserve">
+    <value>#TODO#_Знизу</value>
+  </data>
+  <data name="ImagePreviewLocation_Side" xml:space="preserve">
+    <value>#TODO#_Сторона</value>
+  </data>
+  <data name="ImagePreviewVisibility_Automatic" xml:space="preserve">
+    <value>#TODO#_Автоматично</value>
+  </data>
+  <data name="ImagePreviewVisibility_Hide" xml:space="preserve">
+    <value>#TODO#_Приховати</value>
+  </data>
+  <data name="ImagePreviewVisibility_Show" xml:space="preserve">
+    <value>#TODO#_Показати</value>
+  </data>
+  <data name="TaskViewMode_ListView" xml:space="preserve">
+    <value>Режим списку</value>
+    <comment>+-</comment>
+  </data>
+  <data name="TaskViewMode_ThumbnailView" xml:space="preserve">
+    <value>Режим мініатюр</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailTitleLocation_Bottom" xml:space="preserve">
+    <value>#TODO#_Знизу</value>
+  </data>
+  <data name="ThumbnailTitleLocation_Top" xml:space="preserve">
+    <value>#TODO#_Вгорі</value>
+  </data>
+  <data name="HotkeyType_ImageViewer" xml:space="preserve">
+    <value>Переглядач зображень</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_ImageViewer_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_OCR_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_BorderlessWindow" xml:space="preserve">
+    <value>Безмежне вікно</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_BorderlessWindow_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="ShareXImageViewer" xml:space="preserve">
+    <value>ShareX - Переглядач зображень</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_PinToScreen_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="CutOutEffectType_None" xml:space="preserve">
+    <value>#TODO#_Немає ефекту</value>
+  </data>
+  <data name="CutOutEffectType_TornEdge" xml:space="preserve">
+    <value>#TODO#_Рвані краї</value>
+  </data>
+  <data name="CutOutEffectType_Wave" xml:space="preserve">
+    <value>#TODO#_Хвиля</value>
+  </data>
+  <data name="CutOutEffectType_ZigZag" xml:space="preserve">
+    <value>#TODO#_Пилкоподібний</value>
+  </data>
+  <data name="ShapeType_ToolCutOut" xml:space="preserve">
+    <value>#TODO#_Вирізати (X)</value>
+  </data>
+  <data name="HotkeyType_PinToScreenFromClipboard_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_PinToScreenFromFile_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_PinToScreenFromScreen_Category" xml:space="preserve">
+    <value>Інструменти</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="HotkeyType_PauseScreenRecording_Category" xml:space="preserve">
+    <value>Запис екрану</value>
+    <comment>Повинно мати однаковий переклад з іншими HotkeyType_*_Category
+Дивіться https://discord.com/channels/194170124859736065/194170124859736065/1037441483764142200</comment>
+  </data>
+  <data name="ShapeType_DrawingFreehandArrow" xml:space="preserve">
+    <value>#TODO#_Стрілка вільної руки</value>
+  </data>
+  <data name="HotkeyType_OpenScreenshotsFolder" xml:space="preserve">
+    <value>Відкрити теку для знімків екрану</value>
+    <comment>+</comment>
+  </data>
+  <data name="ObjectListView_ObjectListView_Name" xml:space="preserve">
+    <value>#TODO#_Назва</value>
+  </data>
+  <data name="ImageDestination_FileUploader" xml:space="preserve">
+    <value>Вивантажувач файлів</value>
+    <comment>+</comment>
+  </data>
+  <data name="FileDestination_SharedFolder" xml:space="preserve">
+    <value>Спільна тека</value>
+    <comment>+</comment>
+  </data>
+  <data name="UpdateCheckerLabel_UpdateControls_ShareX_is_up_to_date" xml:space="preserve">
+    <value>#TODO#_{0} актуально</value>
+  </data>
+  <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
+    <value>Алфавітно-цифровий лічильник з урахуванням регістру (відступи нулями через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental -&gt; %iAa - Auto increment alphanumeric case-sensitive (0 pad left using {n})</comment>
+  </data>
+  <data name="DownloaderForm_fileDownloader_DownloadCompleted_Download_completed_" xml:space="preserve">
+    <value>#TODO#_Завантаження завершено.</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ix_Auto_increment_hexadecimal" xml:space="preserve">
+    <value>Шістнадцятковий лічильник (відступи нулями через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental -&gt; %ix - Auto increment hexadecimal (0 pad left using {n})</comment>
+  </data>
+  <data name="CMYK_ToString_Cyan___0_0_0____Magenta___1_0_0____Yellow___2_0_0____Key___3_0_0__" xml:space="preserve">
+    <value>#TODO#_Блакитний: {0:0.0}%, Пурпурний: {1:0.0}%, Жовтий: {2:0.0}%, Key: {3:0.0}%</value>
+  </data>
+  <data name="HotkeyType_PrintScreen" xml:space="preserve">
+    <value>Захоплення всього екрану</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_RectangleRegion" xml:space="preserve">
+    <value>Захоплення області</value>
+    <comment>+</comment>
+  </data>
+  <data name="GIFQuality_Bit4" xml:space="preserve">
+    <value>Octree квантувальник (octree quantizer) на 16 кольорів</value>
+    <comment>Буде краще якщо хтось знає як правильно перекладається "octree quantizer"</comment>
+  </data>
+  <data name="FileDestination_CustomFileUploader" xml:space="preserve">
+    <value>Користувацький вивантажувач файлів</value>
+    <comment>+</comment>
+  </data>
+  <data name="ReplCodeMenuCategory_Random" xml:space="preserve">
+    <value>Випадкові числа</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_rn_Random_number_0_to_9" xml:space="preserve">
+    <value>Випадкове число від 0 до 9 (Повторення через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %rn - Random number 0 to 9 (Repeat using {n})</comment>
+  </data>
+  <data name="HSB_ToString_" xml:space="preserve">
+    <value>#TODO#_Відтінок: {0:0.0}°, Насиченість: {1:0.0}%, Яскравість: {2:0.0}%</value>
+  </data>
+  <data name="HotkeyType_DragDropUpload" xml:space="preserve">
+    <value>Вивантажити перетягуванням</value>
+    <comment>+</comment>
+  </data>
+  <data name="GIFQuality_Bit8" xml:space="preserve">
+    <value>Octree квантувальник (octree quantizer) на 256 кольорів (Повільно, але краща якість)</value>
+    <comment>Буде краще якщо хтось знає як правильно перекладається "octree quantizer"</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_ia_Auto_increment_alphanumeric" xml:space="preserve">
+    <value>Алфавітно-цифровий лічильник без урахуванням регістру (відступи нулями через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental -&gt; %ia - Auto increment alphanumeric case-insensitive (0 pad left using {n})</comment>
+  </data>
+  <data name="ReplCodeMenuCategory_Computer" xml:space="preserve">
+    <value>Комп'ютер</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Computer</comment>
+  </data>
+  <data name="HotkeyType_Ruler" xml:space="preserve">
+    <value>Лінійка</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_IndexFolder" xml:space="preserve">
+    <value>Індексатор теки</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_TweetMessage" xml:space="preserve">
+    <value>Повідомлення в Твіттер</value>
+    <comment>+</comment>
+  </data>
+  <data name="HotkeyType_StopUploads" xml:space="preserve">
+    <value>Зупинити всі активні завантаження</value>
+    <comment>+</comment>
+  </data>
+  <data name="DownloaderForm_ChangeProgress_Progress" xml:space="preserve">
+    <value>Поступ: {0:0.0}%
+Швидкість завантаження: {1:0.0} КБ/с
+Розмір файлу: {2:n0} / {3:n0} КБ</value>
+    <comment>+</comment>
+  </data>
+  <data name="ExportImportControl_Deserialize_Import_failed_" xml:space="preserve">
+    <value>#TODO#_Імпорт не пройшов.</value>
+  </data>
+  <data name="DownloaderForm_StartDownload_Downloading_" xml:space="preserve">
+    <value>#TODO#_Завантажую.</value>
+  </data>
+  <data name="HotkeyType_QRCode" xml:space="preserve">
+    <value>Швидківка</value>
+    <comment>ref: https://slovotvir.org.ua/words/qr</comment>
+  </data>
+  <data name="ResponseType_LocationHeader" xml:space="preserve">
+    <value>#TODO#_Заголовок місця розташування</value>
+  </data>
+  <data name="GIFQuality_Grayscale" xml:space="preserve">
+    <value>Квантувальник палітри градацій сірого (palette quantizer grayscale) на 256 кольорів</value>
+    <comment>Буде краще якщо хтось знає як правильно перекладається "octree quantizer"</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_rx_Random_hexadecimal" xml:space="preserve">
+    <value>Випадковий шістнадцятковий символ (Повторення через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %rx - Random hexadecimal char (Repeat using {n})</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Лічильник, що додає базове алфавітно-цифрове {n} (1 &lt; n &lt; 63)</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental -&gt; %ib - Auto increment by base {n} using alphanumeric (1 &lt; n &lt; 63)</comment>
+  </data>
+  <data name="ImageDestination_CustomImageUploader" xml:space="preserve">
+    <value>Користувацький вивантажувач зображень</value>
+    <comment>+</comment>
+  </data>
+  <data name="ReplCodeMenuEntry_i_Auto_increment_number" xml:space="preserve">
+    <value>Лічильник (відступи нулями через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Incremental -&gt; %i - Auto increment number (0 pad left using {n})</comment>
+  </data>
+  <data name="DownloaderForm_StartDownload_Getting_file_size_" xml:space="preserve">
+    <value>#TODO#_Отримання розміру файлу.</value>
+  </data>
+  <data name="MyPictureBox_pbMain_LoadProgressChanged_Loading_image___0__" xml:space="preserve">
+    <value>#TODO#_Завантаження зображення: {0}%</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ra_Random_alphanumeric_char" xml:space="preserve">
+    <value>Випадковий алфавітно-цифровий символ (Повторення через {n})</value>
+    <comment>Task settings... -&gt; (категорія) Upload -&gt; File naming -&gt; (треба натиснути на поле) Name pattern for window capture: -&gt; Random -&gt; %ra - Random alphanumeric char (Repeat using {n})</comment>
+  </data>
+  <data name="PrintTextForm_LoadSettings_Name___0___Size___1_" xml:space="preserve">
+    <value>#TODO#_Ім'я: {0}, Size: {1}</value>
+  </data>
+  <data name="ScreenRecordGIFEncoding_OctreeQuantizer" xml:space="preserve">
+    <value>Octree квантувальник (octree quantizer) (Середня якість)</value>
+    <comment>Буде краще якщо хтось знає як правильно перекладається "octree quantizer"</comment>
+  </data>
+  <data name="HotkeyType_LastRegion" xml:space="preserve">
+    <value>Захоплення останньої області</value>
+    <comment>+</comment>
   </data>
 </root>

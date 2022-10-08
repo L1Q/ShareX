@@ -1,0 +1,98 @@
+option - опція
+	print
+		settings
+			Destination settings
+				configuration
+			Steam
+				in-app
+			Seafile
+			upload
+				uploader
+					clea
+						backup
+						log
+							Color dialog
+							login
+							logged
+							changelog
+					destination
+						Destination type
+							uploader
+							click
+								tray
+								tip
+								note
+				album
+				drag
+				drop
+				example
+					bucket - контейнер
+					domain
+				folder
+					screenshot
+					encod
+						Octree
+							quantizer
+						start
+							startup
+								`key` ApplicationSettingsForm_cbStartWithWindows
+								Run ShareX when Windows starts
+								organization
+								Task Manager
+								dim
+							record
+							stop
+							restart ShareX
+							personal folder
+				Public upload
+				capture settings
+			save
+			url
+				deletion url
+				Request URL
+					must
+						File form name
+						Destination type
+				director
+				folder
+				Auth
+				Redirection
+				service - обмінювач?
+				shorten
+				custom
+					argument
+					capture sound
+	output
+	DisableUpload
+action
+Border
+window
+	After capture
+		task
+			taskbar
+			Add image effects
+			progress - поступ
+			task menu
+	Edit with ShareX
+	keybind
+About
+Insert image
+editor
+редактор
+control - елемент
+`key` ReplCodeMenuEntry
+	Repeat using { - Повторення через {
+	`key` RandomNonAmbiguousAlphanumericCharRepeatUsingN
+	`key` CodeMenuEntryFilename_RandomAdjective
+	`key` CodeMenuEntryFilename_RandomAnimal
+	`key` RandomEmojiRepeatUsingN
+за замовчуванням
+`key` ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric - перевірити коли пофіксять #6583
+emoji
+`key` HotkeyType_
+	Webpage capture
+	Ruler
+	entire
+	Image viewer
+	QR - швидківка
+	Capture region

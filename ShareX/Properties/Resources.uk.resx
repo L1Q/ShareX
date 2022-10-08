@@ -120,30 +120,37 @@
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>Ви намагаєтеся відвантажити великий файл.
 Ви впевнені, що хочете продовжити?</value>
+    <comment>+</comment>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
-    <value>Ви впевнені, що хочете вивантажити {0} файл(и/ів)?</value>
+    <value>Завантажити ці файли? ({0} шт.)</value>
+    <comment>Краще ніж ставити 'файл(и/ів)'</comment>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
-    <value>Зупинка</value>
+    <value>Зупиняюся</value>
+    <comment>+</comment>
   </data>
   <data name="ActionsToolbar_StayTopMost" xml:space="preserve">
     <value>Поверх інших вікон</value>
   </data>
   <data name="UploadTask_CreateURLShortenerTask_Shorten_URL___0__" xml:space="preserve">
     <value>Скоротити посилання ({0})</value>
+    <comment>(правий натиск по головному вікну) -&gt; Switch to list view -&gt; Запис про скорочування посилання</comment>
   </data>
   <data name="BeforeUploadControl_AddDestination_Custom" xml:space="preserve">
-    <value>Інший</value>
+    <value>Користувацький</value>
+    <comment>+</comment>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
     <value>Відкрити при запуску ShareX</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
     <value>Французька</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Вивантаження</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
     <value>Голландська</value>
@@ -159,61 +166,75 @@
   </data>
   <data name="QRCodeForm_InputTextToEncode" xml:space="preserve">
     <value>Введіть текст для кодування</value>
+    <comment>+</comment>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_EnabledByPolicy_Text" xml:space="preserve">
-    <value>Автозапуск увімкнено Вашою організацією</value>
+    <value>Автозапуск увімкнено вашою організацією</value>
+    <comment>+</comment>
   </data>
   <data name="OCRForm_AutoCompleteFail" xml:space="preserve">
-    <value>Сталася помилка під час розпізнавання тексту або тексту не виявлено.</value>
+    <value>Сталася помилка під час розпізнавання тексту (OCR) або тексту не знайдено.</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
     <value>Українська</value>
   </data>
   <data name="TaskManager_task_UploadCompleted_ShareX___Task_completed" xml:space="preserve">
     <value>Завдання виконано</value>
+    <comment>+</comment>
   </data>
   <data name="OCRForm_AutoComplete" xml:space="preserve">
-    <value>Результат розпізнавання скопійовано у буфер обміну.</value>
+    <value>Результат розпізнавання тексту скопійовано у буфер обміну.</value>
+    <comment>+</comment>
   </data>
   <data name="ScreenshotDelay0S" xml:space="preserve">
-    <value>Затримка для знімка: {0}с</value>
+    <value>Затримка для знімка екрану: {0}с</value>
+    <comment>+</comment>
   </data>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Назва не може бути порожньою.</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>Для застосування змін ShareX треба перевідкрити зі Steam.</value>
+    <value>Для застосування змін, ShareX треба перевідкрити зі Steam.</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Вимкнути гарячі клавіші</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>Індонезійська</value>
   </data>
   <data name="UploadTask_ThreadDoWork_URL_is_empty_" xml:space="preserve">
     <value>Посилання порожнє.</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_tsmiTestTextUpload_Click_Text_upload_test" xml:space="preserve">
-    <value>Спроба вивантаження тексту</value>
+    <value>Перевірка вивантаження тексту</value>
+    <comment>+</comment>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Виберіть персональний шлях до теки ShareX</value>
+    <value>Виберіть шлях до особистої теки ShareX</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_Unable_to_register_hotkey" xml:space="preserve">
-    <value>Неможливо зареєструвати {0}:
+    <value>Не вдалося зареєструвати {0}:
 
 {1}
 
 Будь ласка, виберіть іншу гарячу клавішу чи закрийте конфліктну програму та перевідкрийте ShareX.</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_File_delete_confirmation" xml:space="preserve">
-    <value>Підтвердження видалення файла</value>
+    <value>Підтвердження видалення файлу</value>
   </data>
   <data name="AutoCaptureForm_Execute_Stop" xml:space="preserve">
     <value>Зупинити</value>
+    <comment>Capture -&gt; Auto capture... -&gt; Start -&gt; Stop</comment>
   </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>Поділитися посиланням ({0})</value>
+    <comment>(правий натиск по головному вікну) -&gt; Switch to list view -&gt; Запис про відправлення посилання</comment>
   </data>
   <data name="AutoCaptureForm_UpdateRegion_X___0___Y___1___Width___2___Height___3_" xml:space="preserve">
     <value>X: {0}, Y: {1}, Ширина: {2}, Висота: {3}</value>
@@ -223,51 +244,66 @@
   </data>
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>Налаштування завдань</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeySettingsForm_Reset_all_hotkeys_to_defaults_Confirmation" xml:space="preserve">
     <value>Скинути всі гарячі клавіші до типових значень?</value>
+    
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Журнал змін</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkey" xml:space="preserve">
-    <value>гарячі клавіші</value>
+    <value>гаряча клавіша</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeySelectionControl_StartEditing_Select_a_hotkey___" xml:space="preserve">
     <value>Виберіть гарячу клавішу...</value>
+    <comment>+</comment>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>гарячі клавіші</value>
+    <comment>+</comment>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm_Please_choose_a_destination_" xml:space="preserve">
     <value>Будь ласка, виберіть призначення.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>Запускається</value>
+    <comment>+</comment>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_Image_uploader___0_" xml:space="preserve">
-    <value>Вивантажувач зображення: {0}</value>
+    <value>Вивантажувач зображень: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
-    <value>Скопійовано в буфер обміну: {0}</value>
+    <value>Скопійовано у буфер обміну: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>Неможливо створити теку:</value>
+    <comment>+</comment>
   </data>
   <data name="TaskHelpers_TweetMessage_Unable_to_find_valid_Twitter_account_" xml:space="preserve">
     <value>Не вдалось знайти дійсний обліковий запис Twitter.</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>Посилання для завантаження та вивантаження</value>
+    <comment>+</comment>
   </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Шлях до файлу не може бути порожнім.</value>
   </data>
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>Виберіть теку для збереження</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Enable_hotkeys" xml:space="preserve">
     <value>Увімкнути гарячі клавіші</value>
+    <comment>+</comment>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>Скасувати</value>
@@ -277,15 +313,19 @@
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_Hotkey_registration_failed" xml:space="preserve">
     <value>Збій реєстрації гарячих клавіш</value>
+    <comment>+</comment>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_disabled_" xml:space="preserve">
     <value>Гарячі клавіші вимкнено.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
     <value>Вивантажити файли</value>
+    <comment>+</comment>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
-    <value>Запуск було вимкнено у Диспетчері завдань</value>
+    <value>Автозапуск вимкнено у Диспетчері Завдань</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>Корейська</value>
@@ -298,6 +338,7 @@
   </data>
   <data name="TaskManager_task_UploadCompleted_Error" xml:space="preserve">
     <value>Помилка</value>
+    <comment>+</comment>
   </data>
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Підтримувані змінні: {0} та інші змінні штибу {1} тощо.</value>
@@ -305,12 +346,15 @@
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Киньте
 тут</value>
+    <comment>+</comment>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Гарячі клавіші увімкнені.</value>
+    <comment>+</comment>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>{0} конфігурація хибна або відсутня. Будь ласка, перейдіть до вікна „Налаштування призначень“ для її налаштування.</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
     <value>Китайська традиційна</value>
@@ -319,7 +363,8 @@
     <value>Португальська (Бразилія)</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
-    <value>Файл відвантажується: {0}</value>
+    <value>Вивантажувач файлів: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Сторінка проекту</value>
@@ -328,23 +373,28 @@
     <value>Твіт успішно надіслано.</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>Автозапуск вимкнено Вашою організацією</value>
+    <value>Автозапуск вимкнено вашою організацією</value>
+    <comment>+</comment>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
-    <value>Немає доступу до файла „{0}“.
+    <value>Немає доступу до файлу „{0}“.
 Будь ласка, запустіть ShareX з правами адміністратора, щоб змінити шлях до особистої теки.</value>
+    <comment>+</comment>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>Історія</value>
+    <comment>+</comment>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_upload___0_" xml:space="preserve">
     <value>Після вивантаження: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>Турецька</value>
   </data>
   <data name="MainForm_UpdateWorkflowsMenu_You_can_add_workflows_from_hotkey_settings___" xml:space="preserve">
-    <value>Ви можете додати робочі процеси у налаштуваннях гарячих клавіш...</value>
+    <value>Ви можете додати операції у налаштуваннях гарячих клавіш...</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>Російська</value>
@@ -352,10 +402,12 @@
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
     <value>Треба перезапустити ShareX, щоб застосувати зміну мови.
 
-Чи хочете Ви перезапустити ShareX?</value>
+Чи хочете ви перезапустити ShareX?</value>
+    <comment>+</comment>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
     <value>Запустити ShareX під час запуску Windows</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>Італійська</value>
@@ -365,43 +417,54 @@
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
     <value>Попередження про перше вивантаження</value>
+    <comment>+</comment>
   </data>
   <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>Підтримку Chrome увімкнено.</value>
   </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Тека відвантаження</value>
+    <comment>+</comment>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>Після захоплення: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="OCRForm_AutoProcessing" xml:space="preserve">
-    <value>Виконується розпізнавання.</value>
+    <value>Виконується розпізнавання тексту (OCR).</value>
+    <comment>+</comment>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>Скорочене посилання: {0}</value>
+    <value>Скорочувач посилань: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>Помилки вивантаження</value>
+    <comment>+</comment>
   </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>Перемкнутись у режим мініатюр</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_UpdateMainFormTip_Currently_configured_hotkeys_" xml:space="preserve">
     <value>Поточні параметри гарячих клавіш:</value>
+    <comment>+</comment>
   </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
-    <value>Лівий притиск — для копіювання у буфер обміну. Правий — для відкриття посилання.</value>
+    <value>Ліва кнопка миші - для копіювання у буфер обміну. Права - для відкриття посилання.</value>
+    <comment>+</comment>
   </data>
   <data name="TaskManager_CreateListViewItem_In_queue" xml:space="preserve">
     <value>У черзі</value>
   </data>
   <data name="UploadManager_UploadFile_File_upload" xml:space="preserve">
-    <value>Вивантаження файла</value>
+    <value>Вивантаження файлу</value>
+    <comment>+</comment>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
-    <value>Ви впевнені, що хочете вивантажити знімок?
-Натисніть „Ні“, щоб скасувати поточне вивантаження та вимкнути автоматичне вивантаження знімків.</value>
+    <value>Ви впевнені, що хочете вивантажити цей знімок екрану?
+Натисніть "Ні", щоб скасувати поточне завантаження і вимкнути автоматичне завантаження знімків екрану.</value>
+    <comment>+</comment>
   </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>Ви дійсно хочете вилучити файл?</value>
@@ -412,12 +475,14 @@
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_Text_uploader___0_" xml:space="preserve">
     <value>Вивантажувач тексту: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX — Підтвердження</value>
+    <value>ShareX - Підтвердження</value>
   </data>
   <data name="IntegrationHelpers_UploadWithShareX" xml:space="preserve">
-    <value>Вивантажити з ShareX</value>
+    <value>Вивантажити з допомогою ShareX</value>
+    <comment>+</comment>
   </data>
   <data name="UploadTask_Prepare_Preparing" xml:space="preserve">
     <value>Підготовка</value>
@@ -426,44 +491,53 @@
     <value>Використовувати нову назву: </value>
   </data>
   <data name="SwitchToListView" xml:space="preserve">
-    <value>Перемкнутись у режим списку</value>
+    <value>Перемикнутись у режим списку</value>
+    <comment>+-</comment>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>Змінити це меню...</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Зупинено</value>
+    <comment>+</comment>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
-    <value>Посилання служби спільного доступу: {0}</value>
+    <value>Обмінювач: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
-    <value>Змінити з ShareX</value>
+    <value>Змінити в ShareX</value>
+    <comment>+</comment>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
     <value>Треба перезапустити ShareX, щоб застосувати зміну особистої теки.
 
-Чи хочете Ви перезапустити ShareX?</value>
+Чи хочете ви перезапустити ShareX?</value>
+    <comment>+</comment>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Утримуйте ліву клавішу миші для переміщення
-Правий притиск для відкриття меню
-Середній притиск для закриття</value>
+Права клавіша для відкриття меню
+Середня для закриття</value>
+    <comment>+</comment>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Підтримку Chrome вимкнено.</value>
   </data>
   <data name="AutoCaptureForm_Execute_Start" xml:space="preserve">
     <value>Почати</value>
+    <comment>Capture -&gt; Auto capture... -&gt; Start</comment>
   </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>Попередній перегляд:</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Журнал налагодження може містити конфіденційну інформацію. Ви впевнені, що хочете продовжити?</value>
+    <comment>+</comment>
   </data>
   <data name="UploadManager_ShowShortenURLDialog_Shorten" xml:space="preserve">
     <value>Скоротити</value>
+    <comment>Upload -&gt; Shorten URL... -&gt; (зверху) Shorten</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
     <value>Іспанська (Мексика)</value>
@@ -472,10 +546,12 @@
     <value>Закрити</value>
   </data>
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings_for__0_" xml:space="preserve">
-    <value>Параметри завдання для {0}</value>
+    <value>Налаштування завдань для {0}</value>
+    <comment>+</comment>
   </data>
   <data name="UploadManager_ShowShortenURLDialog_ShortenURL" xml:space="preserve">
-    <value>Скоротити посилання</value>
+    <value>Скорочення посилання</value>
+    <comment>Upload -&gt; Shorten URL... -&gt; (зверху) ShareX - Shorten URL</comment>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Завантаження</value>
@@ -490,7 +566,8 @@
     <value>Китайська спрощена</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
-    <value>{0} буде вивантажено до {1}. Ви можете обрати інший пункт призначення.</value>
+    <value>{0} буде вивантажено до {1}. Ви можете обрати інше призначення.</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Сайт</value>
@@ -500,17 +577,185 @@
   </data>
   <data name="ApplicationSettingsForm_btnBrowseCustomScreenshotsPath_Click_Choose_screenshots_folder_path" xml:space="preserve">
     <value>Виберіть шлях до теки знімків екрану</value>
+    <comment>+</comment>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Скинути всі швидкі завдання до типових значень?</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>Іспанська</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>Чи бажаєте Ви скинути налаштування ShareX?</value>
+    <value>Чи бажаєте ви скинути налаштування ShareX?</value>
+    <comment>+</comment>
   </data>
   <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
     <value>Угорська</value>
+  </data>
+  <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
+    <value>Функція розпізнавання тексту (OCR) доступна лише у версії Windows {0} або новішій.</value>
+    <comment>+</comment>
+  </data>
+  <data name="ScreenColorPicker" xml:space="preserve">
+    <value>Вибір кольору з екрана</value>
+    <comment>+</comment>
+  </data>
+  <data name="PinToScreen" xml:space="preserve">
+    <value>Закріпити на екрані</value>
+    <comment>+</comment>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Помилка</value>
+    <comment>+</comment>
+  </data>
+  <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
+    <value>Помилка FFmpeg</value>
+    <comment>+</comment>
+  </data>
+  <data name="Hotkey" xml:space="preserve">
+    <value>Гаряча клавіша</value>
+    <comment>+</comment>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
+    <value>Зміст буферу обміну: Файл (Кількість: {0})</value>
+    <comment>+</comment>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Image__Size___0_x_1__" xml:space="preserve">
+    <value>Зміст буферу обміну: Зображення (Розмір: {0}x{1})</value>
+    <comment>+</comment>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Зміст буферу обміну: Текст (Довжина: {0})</value>
+    <comment>+</comment>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_is_empty_or_contains_unknown_data_" xml:space="preserve">
+    <value>Буфер обміну порожній або містить невідомі дані.</value>
+    <comment>+</comment>
+  </data>
+  <data name="ClipboardDoesNotContainAnImage" xml:space="preserve">
+    <value>Буфер обміну не містить зображення.</value>
+    <comment>+</comment>
+  </data>
+  <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
+    <value>ShareX згорнений у трей.</value>
+    <comment>+</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
+    <value>#TODO#_Португальська</value>
+  </data>
+  <data name="InspectWindow_ProcessName" xml:space="preserve">
+    <value>Назва процесу</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Process name</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
+    <value>#TODO#_Кредити</value>
+  </data>
+  <data name="InspectWindow_ClassName" xml:space="preserve">
+    <value>Назва класу</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Class name</comment>
+  </data>
+  <data name="InspectWindow_ProcessFileName" xml:space="preserve">
+    <value>Ім'я процесу</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Process file name</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
+    <value>#TODO#_Політика конфіденційності</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
+    <value>#TODO#_румунська</value>
+  </data>
+  <data name="WouldYouLikeToResetThemes" xml:space="preserve">
+    <value>#TODO#_Бажаєте перезавантажити теми?</value>
+  </data>
+  <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
+    <value>Ця функція не буде працювати при включеній опції "DisableUpload"!</value>
+    <comment>+</comment>
+  </data>
+  <data name="InspectWindow_WindowRectangle" xml:space="preserve">
+    <value>Розміри вікна</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Window rectangle</comment>
+  </data>
+  <data name="WouldYouLikeToEnableImageEffects" xml:space="preserve">
+    <value>Бажаєте увімкнути ефекти зображення?
+
+Пізніше ви зможете вимкнути їх у меню "Завдання після захоплення".</value>
+    <comment>+</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
+    <value>#TODO#_Перська</value>
+  </data>
+  <data name="AboutForm_AboutForm_Links" xml:space="preserve">
+    <value>#TODO#_Посилання</value>
+  </data>
+  <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
+    <value>Ваше антивірусне програмне забезпечення або функція контрольованого доступу до тек у Windows може блокувати ShareX.</value>
+    <comment>+</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
+    <value>#TODO#_японський</value>
+  </data>
+  <data name="InspectWindow_WindowStyles" xml:space="preserve">
+    <value>Стилі вікна</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Window styles</comment>
+  </data>
+  <data name="Confirmation" xml:space="preserve">
+    <value>#TODO#_Підтвердження</value>
+  </data>
+  <data name="InspectWindow_WindowTitle" xml:space="preserve">
+    <value>Заголовок вікна</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Window title</comment>
+  </data>
+  <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
+    <value>#TODO#_Джерело відео та аудіо FFmpeg не може бути одночасно "None".</value>
+  </data>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>Ідентифікатор процесу</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Process identifier</comment>
+  </data>
+  <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
+    <value>Не вдалося знайти вікно з вказаною назвою.</value>
+    <comment>+</comment>
+  </data>
+  <data name="InspectWindow_WindowHandle" xml:space="preserve">
+    <value>Дескриптор вікна</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Window handle</comment>
+  </data>
+  <data name="FailedToSaveSettings" xml:space="preserve">
+    <value>Не вдалося зберегти налаштування</value>
+    <comment>+</comment>
+  </data>
+  <data name="InspectWindow_ClientRectangle" xml:space="preserve">
+    <value>Розміри клієнта</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Client rectangle</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Team" xml:space="preserve">
+    <value>#TODO#_Команда</value>
+  </data>
+  <data name="InspectWindow_ExtendedWindowStyles" xml:space="preserve">
+    <value>Розширені стилі вікна</value>
+    <comment>Tools -&gt; Inspect window... -&gt; Extended window styles</comment>
+  </data>
+  <data name="ImageData_Write_Error_Message" xml:space="preserve">
+    <value>#TODO#_Не вдалося записати зображення на шлях:</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>#TODO#_Опис</value>
+  </data>
+  <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
+    <value>Ваш системний адміністратор відключив функцію завантаження.</value>
+    <comment>+</comment>
+  </data>
+  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
+    <value>#TODO#_польська</value>
+  </data>
+  <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
+    <value>#TODO#_FFmpeg, що постачається з ShareX, підтримує тільки 64-розрядні операційні системи.</value>
+  </data>
+  <data name="FFmpegIsMissing" xml:space="preserve">
+    <value>#TODO#_FFmpeg відсутній</value>
+  </data>
+  <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
+    <value>#TODO#_FFmpeg не існує на наступному шляху:</value>
   </data>
 </root>

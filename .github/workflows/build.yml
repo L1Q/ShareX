@@ -20,9 +20,9 @@ jobs:
       matrix:
         configuration:
           - Release
-          - Debug
-          - Steam
-          - MicrosoftStore
+          # - Debug
+          # - Steam
+          # - MicrosoftStore
         platform:
           - Any CPU
 
@@ -59,6 +59,14 @@ jobs:
       - name: Restore NuGet packages
         working-directory: ${{ env.GITHUB_WORKSPACE }}
         run: nuget restore ${{ env.SOLUTION_FILE_PATH }}
+
+      - name: Remove temp comments
+        working-directory: ${{ env.GITHUB_WORKSPACE }}
+        run: |
+            Get-ChildItem '.\*.uk.resx' -Recurse | ForEach {
+              $content = [System.IO.File]::ReadAllText($_).Replace("<comment>@Invariant</comment>","")
+              [System.IO.File]::WriteAllText($_, $content)
+            }
 
       - name: Build
         working-directory: ${{ env.GITHUB_WORKSPACE }}

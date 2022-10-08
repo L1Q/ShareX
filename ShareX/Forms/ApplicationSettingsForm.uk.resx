@@ -127,34 +127,44 @@
     <value>Перевірити наявність передрелізних онорвлень</value>
   </data>
   <data name="lblTrayMiddleClickAction.Text" xml:space="preserve">
-    <value>Середній притиск по піктограмі у лотку:</value>
+    <value>Натискання середньої клавіші по піктограмі у треї:</value>
+    <comment>+</comment>
   </data>
   <data name="lblTrayLeftDoubleClickAction.Text" xml:space="preserve">
-    <value>Подвійний лівий притиск по піктограмі у лотку:</value>
+    <value>Подвійне натискання лівої клавіші по піктограмі у треї:</value>
+    <comment>+</comment>
   </data>
   <data name="lblTrayLeftClickAction.Text" xml:space="preserve">
-    <value>Лівий притиск по піктограмі у лотку:</value>
+    <value>Натискання лівої клавіші по піктограмі у треї:</value>
+    <comment>+</comment>
   </data>
   <data name="btnEditQuickTaskMenu.Text" xml:space="preserve">
     <value>Змінити меню швидких завдань...</value>
+    <comment>+</comment>
   </data>
   <data name="cbShowTray.Text" xml:space="preserve">
-    <value>Показувати піктограму в області сповіщень</value>
+    <value>Показувати піктограму у треї</value>
+    <comment>+</comment>
   </data>
   <data name="cbTrayIconProgressEnabled.Text" xml:space="preserve">
-    <value>Показувати перебіг в області сповіщень</value>
+    <value>Показувати поступ у треї</value>
+    <comment>+</comment>
   </data>
   <data name="cbRememberMainFormPosition.Text" xml:space="preserve">
     <value>Запам’ятати позицію головного вікна</value>
+    <comment>+</comment>
   </data>
   <data name="cbSilentRun.Text" xml:space="preserve">
-    <value>Згортати програму в лоток при запуску</value>
+    <value>Згортати програму у трей при запуску</value>
+    <comment>+</comment>
   </data>
   <data name="cbTaskbarProgressEnabled.Text" xml:space="preserve">
-    <value>Показувати перебіг на кнопці в панелі завдань</value>
+    <value>Показувати поступ на кнопці в панелі завдань</value>
+    <comment>+</comment>
   </data>
   <data name="cbRememberMainFormSize.Text" xml:space="preserve">
     <value>Запам’ятати розмір головного вікна</value>
+    <comment>+</comment>
   </data>
   <data name="lblLanguage.Text" xml:space="preserve">
     <value>Мова:</value>
@@ -163,7 +173,7 @@
     <value>Загальні</value>
   </data>
   <data name="btnThemeReset.Text" xml:space="preserve">
-    <value>Скинути</value>
+    <value>Скинути...</value>
   </data>
   <data name="btnThemeRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
@@ -175,7 +185,7 @@
     <value>Тема</value>
   </data>
   <data name="cbFirefoxAddonSupport.Text" xml:space="preserve">
-    <value>Увімкнути підтримку додатку для Firefox</value>
+    <value>Увімкнути підтримку додатка для Firefox</value>
   </data>
   <data name="btnFirefoxOpenAddonPage.Text" xml:space="preserve">
     <value>Встановити додаток ShareX для Firefox...</value>
@@ -184,7 +194,8 @@
     <value>Додаток для Firefox</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>При відкритому ShareX, показувати „У програмі“ у Steam</value>
+    <value>При відкритому ShareX, показувати „У Програмі“ у Steam</value>
+    <comment>+</comment>
   </data>
   <data name="cbChromeExtensionSupport.Text" xml:space="preserve">
     <value>Увімкнути підтримку розширення для Chrome</value>
@@ -196,19 +207,22 @@
     <value>Розширення Chrome</value>
   </data>
   <data name="cbEditWithShareX.Text" xml:space="preserve">
-    <value>Показувати кнопку „Змінити із ShareX“ у контекстному меню Провідника Windows</value>
+    <value>Показувати кнопку "Змінити в ShareX" у контекстному меню Провідника Windows</value>
+    <comment>+</comment>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>Показати ShareX в меню „Надіслати“</value>
   </data>
   <data name="cbShellContextMenu.Text" xml:space="preserve">
-    <value>Показувати кнопку „Вивантажити із ShareX“ у контекстному меню Провідника Windows</value>
+    <value>Показувати кнопку "Вивантажити із ShareX" у контекстному меню Провідника Windows</value>
+    <comment>+</comment>
   </data>
   <data name="gbWindows.Text" xml:space="preserve">
-    <value>Вікна</value>
+    <value></value>
+    <comment>+</comment>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
-    <value>Інтеграція</value>
+    <value>Інтеграції</value>
   </data>
   <data name="btnPersonalFolderPathApply.Text" xml:space="preserve">
     <value>Застосувати</value>
@@ -221,6 +235,7 @@
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
     <value>Особиста тека ShareX:</value>
+    <comment>+</comment>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>Огляд...</value>
@@ -229,25 +244,31 @@
     <value>Відкрити...</value>
   </data>
   <data name="cbUseCustomScreenshotsPath.Text" xml:space="preserve">
-    <value>Користувацька тека для знімків:</value>
+    <value>Користувацька тека для знімків екрану:</value>
+    <comment>+</comment>
   </data>
   <data name="lblSaveImageSubFolderPattern.Text" xml:space="preserve">
     <value>Шаблон назви підтек:</value>
+    <comment>Application settings... -&gt; Paths -&gt; Sub folder pattern:</comment>
   </data>
   <data name="tpPaths.Text" xml:space="preserve">
     <value>Шляхи</value>
   </data>
   <data name="cbExportHistory.Text" xml:space="preserve">
     <value>Історія</value>
+    <comment>+</comment>
   </data>
   <data name="cbExportSettings.Text" xml:space="preserve">
     <value>Налаштування</value>
+    <comment>+</comment>
   </data>
   <data name="lblExportImportNote.Text" xml:space="preserve">
-    <value>Примітка: Не діліться експортованим файлом з ким-небудь, тому що він може містити особисту інформацію, штибу даних обліковки та історії вивантаження.</value>
+    <value>Примітка: Не діліться експортованим файлом з ким-небудь, тому що він може містити особисту інформацію, наприклад данні облікових записів та/або історію вивантажень.</value>
+    <comment>+</comment>
   </data>
   <data name="btnResetSettings.Text" xml:space="preserve">
     <value>Скинути налаштування...</value>
+    <comment>+</comment>
   </data>
   <data name="btnExport.Text" xml:space="preserve">
     <value>Експорт...</value>
@@ -281,63 +302,83 @@
   </data>
   <data name="gbSecondaryFileUploaders.Text" xml:space="preserve">
     <value>Вторинні вивантажувачі файлів</value>
+    <comment>+</comment>
   </data>
   <data name="gbSecondaryImageUploaders.Text" xml:space="preserve">
     <value>Вторинні вивантажувачі зображень</value>
+    <comment>+</comment>
   </data>
   <data name="gbSecondaryTextUploaders.Text" xml:space="preserve">
     <value>Вторинні вивантажувачі тексту</value>
+    <comment>+</comment>
   </data>
   <data name="cbIfUploadFailRetryOnce.Text" xml:space="preserve">
-    <value>Кількість спроб вивантаження при збої:</value>
+    <value>Кількість повторних спроб при збої вивантаження:</value>
+    <comment>+</comment>
   </data>
   <data name="tpUpload.Text" xml:space="preserve">
     <value>Вивантажити</value>
+    <comment>#TODO# контекст</comment>
   </data>
   <data name="cbHistoryCheckURL.Text" xml:space="preserve">
     <value>Зберігати лише коли посилання не порожнє</value>
+    <comment>+</comment>
   </data>
   <data name="cbHistorySaveTasks.Text" xml:space="preserve">
     <value>Зберігати завдання до історії</value>
+    <comment>+</comment>
   </data>
   <data name="gbHistory.Text" xml:space="preserve">
     <value>Історія</value>
+    <comment>+</comment>
   </data>
   <data name="cbRecentTasksTrayMenuMostRecentFirst.Text" xml:space="preserve">
-    <value>У меню області сповіщень показувати першими останні завдання</value>
+    <value>Показувати останні завдання першими у треї</value>
+    <comment>+</comment>
   </data>
   <data name="lblRecentTasksMaxCount.Text" xml:space="preserve">
     <value>Максимальна кількість завдань для збереження:</value>
+    <comment>+</comment>
   </data>
   <data name="cbRecentTasksShowInTrayMenu.Text" xml:space="preserve">
-    <value>Показувати останні завдання в меню області сповіщень</value>
+    <value>Показувати останні завдання у треї</value>
+    <comment>+</comment>
   </data>
   <data name="cbRecentTasksShowInMainWindow.Text" xml:space="preserve">
-    <value>Показувати останні завдання в головному вікні під час запуску</value>
+    <value>Показувати останні завдання у головному вікні під час запуску</value>
+    <comment>+</comment>
   </data>
   <data name="cbRecentTasksSave.Text" xml:space="preserve">
     <value>Зберегти останні завдання</value>
+    <comment>+</comment>
   </data>
   <data name="gbRecentLinks.Text" xml:space="preserve">
     <value>Останні завдання</value>
+    <comment>+</comment>
   </data>
   <data name="tpHistory.Text" xml:space="preserve">
     <value>Історія</value>
+    <comment>+</comment>
   </data>
   <data name="cbPrintDontShowWindowsDialog.Text" xml:space="preserve">
     <value>Не показувати діалогове вікно друку Windows</value>
+    <comment>+</comment>
   </data>
   <data name="cbDontShowPrintSettingDialog.Text" xml:space="preserve">
-    <value>Не показувати діалогове вікно параметрів друку зображень</value>
+    <value>Не показувати діалогове вікно налаштувань друку зображень</value>
+    <comment>+</comment>
   </data>
   <data name="btnShowImagePrintSettings.Text" xml:space="preserve">
-    <value>Параметри друку зображень...</value>
+    <value>Налаштування друку зображень...</value>
+    <comment>+</comment>
   </data>
   <data name="tpPrint.Text" xml:space="preserve">
     <value>Друк</value>
+    <comment>+</comment>
   </data>
   <data name="lblProxyMethod.Text" xml:space="preserve">
-    <value>Параметри проксі:</value>
+    <value>Налаштування проксі:</value>
+    <comment>+</comment>
   </data>
   <data name="lblProxyHost.Text" xml:space="preserve">
     <value>Хост:</value>
@@ -358,6 +399,107 @@
     <value>Розширені</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — налаштування програми</value>
+    <value>ShareX - Налаштування програми</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblThumbnailViewThumbnailSizeX.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
+  </data>
+  <data name="lblPreviewPersonalFolderPath.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
+  </data>
+  <data name="gbSteam.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
+  </data>
+  <data name="lblSaveImageSubFolderPatternPreview.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
+  </data>
+  <data name="lblDefaultPrinterOverride.Text" xml:space="preserve">
+    <value>Перевизначити типовий принтер:</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpClipboardFormats.Text" xml:space="preserve">
+    <value>Формати буфера обміну</value>
+    <comment>+</comment>
+  </data>
+  <data name="cbUseCustomTheme.Text" xml:space="preserve">
+    <value>Використовувати користувацьку тему</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblSaveImageSubFolderPatternWindow.Text" xml:space="preserve">
+    <value>Шаблон підтеки для вікна:</value>
+    <comment>Application settings... -&gt; Paths -&gt; Sub folder pattern for window:</comment>
+  </data>
+  <data name="cbAutomaticallyCleanupLogFiles.Text" xml:space="preserve">
+    <value>Автоматичне очищення старих файлів журналів</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblCleanupKeepFileCount.Text" xml:space="preserve">
+    <value>#TODO#_Кількість файлів, які потрібно зберігати:</value>
+  </data>
+  <data name="cbAutomaticallyCleanupBackupFiles.Text" xml:space="preserve">
+    <value>Автоматичне очищення старих резервних копій</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpSettings.Text" xml:space="preserve">
+    <value>Налаштування</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblListViewImagePreviewLocation.Text" xml:space="preserve">
+    <value>#TODO#_Місце попереднього перегляду зображення:</value>
+  </data>
+  <data name="lblListViewImagePreviewVisibility.Text" xml:space="preserve">
+    <value>#TODO#_Видимість попереднього перегляду зображень:</value>
+  </data>
+  <data name="cbListViewShowColumns.Text" xml:space="preserve">
+    <value>#TODO#_Показати колонки</value>
+  </data>
+  <data name="gbListView.Text" xml:space="preserve">
+    <value>Режим списку</value>
+    <comment>Дивіться контекст: Application settings -&gt; Main window -&gt; Task view mode (і список зправа)</comment>
+  </data>
+  <data name="btnThumbnailViewThumbnailSizeReset.Text" xml:space="preserve">
+    <value>#TODO#_Перезавантаження</value>
+  </data>
+  <data name="lblThumbnailViewThumbnailClickAction.Text" xml:space="preserve">
+    <value>Дія при натисканні на мініатюру:</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblThumbnailViewThumbnailSize.Text" xml:space="preserve">
+    <value>Розмір мініатюри:</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblThumbnailViewTitleLocation.Text" xml:space="preserve">
+    <value>#TODO#_Місцезнаходження титулу:</value>
+  </data>
+  <data name="cbThumbnailViewShowTitle.Text" xml:space="preserve">
+    <value>#TODO#_Показати назву</value>
+  </data>
+  <data name="gbThumbnailView.Text" xml:space="preserve">
+    <value>Режим мініатюр</value>
+    <comment>Дивіться контекст: Application settings -&gt; Main window -&gt; Task view mode (і список зправа)</comment>
+  </data>
+  <data name="cbMainWindowShowMenu.Text" xml:space="preserve">
+    <value>#TODO#_Показати меню</value>
+  </data>
+  <data name="lblMainWindowTaskViewMode.Text" xml:space="preserve">
+    <value>Режим перегляду завдань:</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpMainWindow.Text" xml:space="preserve">
+    <value>Головне вікно</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblClipboardFormatsTip.Text" xml:space="preserve">
+    <value>Ці формати з'являться в підменю "Копіювати" контекстного меню головного вікна.</value>
+    <comment>#TODO# Application settings... -&gt; Clipboard formats -&gt; These formats will appear under "Copy" sub-menu in the main window context menu.</comment>
+  </data>
+  <data name="cbUseSecondaryUploaders.Text" xml:space="preserve">
+    <value>При повторній спробі, використовувати вторинні відвантажувачі</value>
+    <comment>+</comment>
   </data>
 </root>

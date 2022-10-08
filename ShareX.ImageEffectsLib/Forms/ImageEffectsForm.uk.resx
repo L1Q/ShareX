@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -121,10 +121,11 @@
     <value>Зберегти...</value>
   </data>
   <data name="tsmiLoadImageFromFile.Text" xml:space="preserve">
-    <value>З файла...</value>
+    <value>З файлу...</value>
   </data>
   <data name="tsmiLoadImageFromClipboard.Text" xml:space="preserve">
     <value>З буфера обміну</value>
+    <comment>+</comment>
   </data>
   <data name="mbLoadImage.Text" xml:space="preserve">
     <value>Завантажити зображення</value>
@@ -137,11 +138,56 @@
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>Гаразд</value>
+    <comment>+</comment>
   </data>
   <data name="btnUploadImage.Text" xml:space="preserve">
     <value>Вивантажити зображення</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Ефекти зображення</value>
+    <value>ShareX - Ефекти зображення</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblPresets.Text" xml:space="preserve">
+    <value>#TODO#_Пресети:</value>
+  </data>
+  <data name="btnPackager.Text" xml:space="preserve">
+    <value>Пакувальник...</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnPresetNew.ToolTip" xml:space="preserve">
+    <value>#TODO#_Новий</value>
+  </data>
+  <data name="btnPresetRemove.ToolTip" xml:space="preserve">
+    <value>#TODO#_Вилучити</value>
+  </data>
+  <data name="btnPresetDuplicate.ToolTip" xml:space="preserve">
+    <value>#TODO#_Дублювати</value>
+  </data>
+  <data name="lblEffects.Text" xml:space="preserve">
+    <value>#TODO#_Ефекти:</value>
+  </data>
+  <data name="btnEffectAdd.ToolTip" xml:space="preserve">
+    <value>#TODO#_Додати</value>
+  </data>
+  <data name="btnEffectRemove.ToolTip" xml:space="preserve">
+    <value>#TODO#_Вилучити</value>
+  </data>
+  <data name="btnEffectDuplicate.ToolTip" xml:space="preserve">
+    <value>#TODO#_Дублювати</value>
+  </data>
+  <data name="btnEffectClear.ToolTip" xml:space="preserve">
+    <value>Очистити...</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnEffectRefresh.ToolTip" xml:space="preserve">
+    <value>#TODO#_Оновити</value>
+  </data>
+  <data name="btnImageEffects.Text" xml:space="preserve">
+    <value>Ефекти зображення...</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblEffectName.Text" xml:space="preserve">
+    <value>#TODO#_Назва ефекту:</value>
   </data>
 </root>

@@ -122,18 +122,23 @@
   </data>
   <data name="UploadersConfigForm_LoadSettings_Selected_folder_" xml:space="preserve">
     <value>Вибрана тека:</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_Login_failed" xml:space="preserve">
-    <value>Збій авторизації.</value>
+    <value>Помилка входу.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Parent_album_path_e_g_" xml:space="preserve">
-    <value>Шлях до батьківського альбому, наприклад,</value>
+    <value>Шлях до батьківського альбому, наприклад:</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_TestCustomUploader_Error__Result_is_empty_" xml:space="preserve">
     <value>Помилка: Результат порожній.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_Error" xml:space="preserve">
     <value>Помилка</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_TestFTPAccount_Connected_" xml:space="preserve">
     <value>З’єднано!</value>
@@ -147,27 +152,32 @@
   <data name="UploadersConfigForm_TestFTPAccount_Connected_Created_folders" xml:space="preserve">
     <value>З’єднано!
 Створені теки:</value>
+    <comment>+</comment>
   </data>
   <data name="CertFileNameEditor_EditValue_Browse_for_a_certificate_file___" xml:space="preserve">
     <value>Знайти файл сертифіката...</value>
   </data>
   <data name="UploadersConfigForm_OneDriveAddFolder_Querying_folders___" xml:space="preserve">
     <value>Запитуємо теки...</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_SendSpaceRegister_SendSpace_Registration___" xml:space="preserve">
     <value>Реєстрація у SendSpace</value>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Invalid_authentication" xml:space="preserve">
     <value>Хибна автентифікація</value>
+    <comment>+</comment>
   </data>
   <data name="JiraUpload_ValidateIssueId_Issue_not_found" xml:space="preserve">
     <value>Запит не знайдено</value>
   </data>
   <data name="UploadersConfigForm_Login_successful" xml:space="preserve">
-    <value>Вдалий вхід.</value>
+    <value>Успішний вхід.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_ListFolders_Authentication_required_" xml:space="preserve">
     <value>Потрібна автентифікація.</value>
+    <comment>+</comment>
   </data>
   <data name="KeyFileNameEditor_EditValue_Browse_for_a_key_file___" xml:space="preserve">
     <value>Знайти ключовий файл...</value>
@@ -176,28 +186,34 @@
     <value>Неможливо знайти дійсний обліковий запис FTP.</value>
   </data>
   <data name="UploadersConfigForm_oAuthJira_RefreshButtonClicked_Refresh_authorization_is_not_supported_" xml:space="preserve">
-    <value>Оновлення авторизації не підтримується.</value>
+    <value>Оновлення автентифікації не підтримується.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Configured" xml:space="preserve">
     <value>Налаштовано</value>
   </data>
   <data name="TwitterTweetForm_SendTweet_Tweet_error" xml:space="preserve">
     <value>Помилка твіту</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Invalid_device_name" xml:space="preserve">
     <value>Хибна назва пристрою</value>
   </data>
   <data name="UploadersConfigForm_BoxListFolders_Box_refresh_folders_list_failed" xml:space="preserve">
     <value>Не вдалось оновити список тек Box</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Click_refresh_button" xml:space="preserve">
     <value>Натисніть кнопку „Оновити“</value>
+    <comment>+</comment>
   </data>
   <data name="OneDrive_RootFolder_Root_folder" xml:space="preserve">
     <value>Коренева тека</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_Remove_all_custom_uploaders_Confirmation" xml:space="preserve">
     <value>Вилучити всі користувацькі вивантажувачі?</value>
+    <comment>+</comment>
   </data>
   <data name="OAuthControl_OAuthControl_PasteVerificationCodeHere" xml:space="preserve">
     <value>Вставте код підтвердження сюди</value>
@@ -206,36 +222,96 @@
     <value>Файл ключа не існує.</value>
   </data>
   <data name="UploadersConfigForm_eiCustomUploaders_ExportRequested_RequestURLMustBeConfigured" xml:space="preserve">
-    <value>Має бути налаштовано „Посилання запиту“.</value>
+    <value>Мусить бути налаштовано „Посилання запиту“.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_eiCustomUploaders_ExportRequested_DestinationTypeMustBeConfigured" xml:space="preserve">
-    <value>Має бути налаштовано „Тип призначення“.</value>
+    <value>"Тип призначення" мусить бути налаштованим.</value>
+    <comment>+</comment>
   </data>
   <data name="CustomUploaderItem_GetRequestURL_RequestURLMustBeConfigured" xml:space="preserve">
-    <value>Має бути налаштовано „Посилання запиту“.</value>
+    <value>Мусить бути налаштовано „Посилання запиту“.</value>
+    <comment>+</comment>
   </data>
   <data name="CustomUploaderItem_GetFileFormName_FileFormNameMustBeConfigured" xml:space="preserve">
-    <value>Має бути налаштовано „Назва форми з файлом“.</value>
+    <value>Мусить бути налаштовано "Назва файлу".</value>
+    <comment>помилка якщо lblFileFormName.Text не вказано</comment>
   </data>
   <data name="UploadersConfigForm_UpdatePastebinStatus_NotLoggedIn" xml:space="preserve">
     <value>Вхід не виконано.</value>
+    <comment>+</comment>
   </data>
   <data name="UploadersConfigForm_UpdatePastebinStatus_LoggedIn" xml:space="preserve">
     <value>Вхід виконано.</value>
+    <comment>+</comment>
   </data>
   <data name="OAuthControl_Status_NotLoggedIn" xml:space="preserve">
     <value>Вхід не виконано.</value>
+    <comment>+</comment>
   </data>
   <data name="OAuthControl_Status_LoggedIn" xml:space="preserve">
     <value>Вхід виконано.</value>
+    <comment>+</comment>
   </data>
   <data name="OAuthControl_Status_LoginFailed" xml:space="preserve">
-    <value>Збій авторизації.</value>
+    <value>Помилка входу.</value>
+    <comment>+</comment>
   </data>
   <data name="txtB2BucketWatermark" xml:space="preserve">
-    <value>Необов'язково, використовується лише якщо Ви не зазначили відро при створенні ключа</value>
+    <value>(Необов'язково) Використовується лише якщо ви не вказали контейнер (bucket) при створенні ключа</value>
+    <comment>+</comment>
   </data>
   <data name="DuplicateNameNotAllowed" xml:space="preserve">
     <value>Повтор назв не дозволений.</value>
+  </data>
+  <data name="ResponseText" xml:space="preserve">
+    <value>Текст відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="ResponseURL" xml:space="preserve">
+    <value>Посилання відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Помилка</value>
+    <comment>+</comment>
+  </data>
+  <data name="GoogleDrive_MyDrive_My_drive" xml:space="preserve">
+    <value>#TODO#_Мій диск</value>
+  </data>
+  <data name="ExportFailed" xml:space="preserve">
+    <value>#TODO#_Збій експорту.</value>
+  </data>
+  <data name="LoggedInAs0" xml:space="preserve">
+    <value>Вхід виконано як {0}.</value>
+    <comment>+</comment>
+  </data>
+  <data name="FormattingFailed_JSON" xml:space="preserve">
+    <value>#TODO#_Форматування не вдалося.</value>
+  </data>
+  <data name="FormattingFailed_XML" xml:space="preserve">
+    <value>#TODO#_Форматування не вдалося.</value>
+  </data>
+  <data name="ShortenedURL" xml:space="preserve">
+    <value>Скорочене посилання</value>
+    <comment>+</comment>
+  </data>
+  <data name="URL" xml:space="preserve">
+    <value>Посилання</value>
+    <comment>+</comment>
+  </data>
+  <data name="ThumbnailURL" xml:space="preserve">
+    <value>Посилання на мініатюру</value>
+    <comment>+</comment>
+  </data>
+  <data name="DeletionURL" xml:space="preserve">
+    <value>Посилання для видалення</value>
+    <comment>+</comment>
+  </data>
+  <data name="StatusCode" xml:space="preserve">
+    <value>#TODO#_Код статусу</value>
+  </data>
+  <data name="Headers" xml:space="preserve">
+    <value>#TODO#_Заголовки</value>
   </data>
 </root>

@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -122,24 +122,28 @@
   </data>
   <data name="btnExecute.Text" xml:space="preserve">
     <value>Почати</value>
+    <comment>Capture -&gt; Auto capture... -&gt; Start</comment>
   </data>
   <data name="cbWaitUploads.Text" xml:space="preserve">
-    <value>Дочекайтеся завершення завдання</value>
+    <value>Дочекатися завершення завдання</value>
+    <comment>Capture -&gt; Auto capture... -&gt; Wait until tasks complete</comment>
   </data>
   <data name="cbAutoMinimize.Text" xml:space="preserve">
-    <value>Автоматично мінімізувати до області сповіщень</value>
+    <value>Автоматично мінімізувати до трею</value>
+    <comment>+</comment>
   </data>
   <data name="lblRegion.Text" xml:space="preserve">
     <value>Область</value>
   </data>
   <data name="btnRegion.Text" xml:space="preserve">
-    <value>Виберіть область</value>
+    <value>Виберіть область...</value>
   </data>
   <data name="lblDuration.Text" xml:space="preserve">
     <value>Час повторів:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX — Автоматичне захоплення</value>
+    <value>ShareX - Автоматичне захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>секунд</value>
@@ -148,12 +152,14 @@
     <value>Весь екран</value>
   </data>
   <data name="rbCustomRegion.Text" xml:space="preserve">
-    <value>Зазначену область</value>
+    <value>Користувацька область</value>
+    <comment>Capture -&gt; Auto capture... -&gt; Region -&gt; Custom Region</comment>
   </data>
   <data name="gbRegion.Text" xml:space="preserve">
     <value>Область</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Автоматичне захоплення</value>
+    <value>ShareX - Автоматичне захоплення</value>
+    <comment>+</comment>
   </data>
 </root>

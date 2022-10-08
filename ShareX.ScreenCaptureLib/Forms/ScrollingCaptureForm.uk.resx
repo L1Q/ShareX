@@ -118,10 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSelectHandle.Text" xml:space="preserve">
-    <value>Виберіть вікно або елемент керування для прокручування...</value>
+    <value>Виберіть вікно або частину екрану для прокручування...</value>
+    <comment>Capture -&gt; Scrolling capture -&gt; Select window or control to scroll...
+control - https://discord.com/channels/194170124859736065/194170124859736065/1038521160184369212</comment>
   </data>
   <data name="btnCapture.Text" xml:space="preserve">
     <value>Почати захоплення з прокручуванням</value>
+    <comment>+</comment>
   </data>
   <data name="lblScrollDelay.Text" xml:space="preserve">
     <value>Затримка прокручування:</value>
@@ -134,9 +137,11 @@
   </data>
   <data name="cbAutoCombine.Text" xml:space="preserve">
     <value>Виявляти зсуви та обʼєднати забраження</value>
+    <comment>+-</comment>
   </data>
   <data name="gbAfterCapture.Text" xml:space="preserve">
     <value>Після захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="lblScrollMethod.Text" xml:space="preserve">
     <value>Метод прокручування:</value>
@@ -152,21 +157,26 @@
   </data>
   <data name="lblStartDelay.Text" xml:space="preserve">
     <value>Затримка початку:</value>
+    <comment>+</comment>
   </data>
   <data name="cbStartSelectionAutomatically.Text" xml:space="preserve">
     <value>Починати вибір області захоплення перед відкриттям цього вікна</value>
+    <comment>+</comment>
   </data>
   <data name="cbStartCaptureAutomatically.Text" xml:space="preserve">
-    <value>Почати захоплення прокручування відразу після вибору області захоплення</value>
+    <value>Почати захоплення з прокручування відразу після вибору області захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="btnSelectRectangle.Text" xml:space="preserve">
     <value>(Необов'язково) Вибрати область у вікні...</value>
+    <comment>+</comment>
   </data>
   <data name="gbBeforeCapture.Text" xml:space="preserve">
     <value>Перед захопленням</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
-    <value>Будь ласка, зауважте що ShareX хоч і намагається виконати захоплення із прокручуванням якнайточніше, проте досі можуть виникати проблеми із певним вмістом. Основною причиною, що може викликати проблеми при обʼєднанні, є рухи на екрані під час захоплення. Наприклад, якщо на екрані є анімовані GIF або фіксовані обʼєкти, що не рухаються під час прокручування (штибу фіксованих меню або кнопок, що не змінюють свого розташування під час прокручування решти вмісту сторінки).</value>
+    <value>Будь ласка, зауважте що ShareX хоч і намагається виконати захоплення із прокручуванням якнайточніше, проте досі можуть виникати проблеми із певним вмістом. Основною причиною, що може викликати проблеми при обʼєднанні, є рухи на екрані під час захоплення. Наприклад, якщо на екрані є анімовані GIF або фіксовані обʼєкти, що не рухаються під час прокручування (фіксовані меню або кнопки, що не змінюють свого розташування під час прокручування решти вмісту сторінки).</value>
+    <comment>+</comment>
   </data>
   <data name="tpCapture.Text" xml:space="preserve">
     <value>Захоплення</value>
@@ -181,13 +191,16 @@
     <value>Зображення</value>
   </data>
   <data name="btnResetCombine.Text" xml:space="preserve">
-    <value>Скинути параметри виведення</value>
+    <value>Скинути опції виведення</value>
+    <comment>+</comment>
   </data>
   <data name="btnGuessCombineAdjustments.Text" xml:space="preserve">
     <value>Виявляти коригування обʼєднання та обʼєднати</value>
+    <comment>+</comment>
   </data>
   <data name="btnStartTask.Text" xml:space="preserve">
-    <value>Вивантажити/зберегти в залежності від налаштувань дій після захоплення</value>
+    <value>Вивантажити/зберегти у залежності від налаштувань дій після захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="btnGuessEdges.Text" xml:space="preserve">
     <value>Визначати розміри країв для обрізання</value>
@@ -200,6 +213,7 @@
   </data>
   <data name="gbCombineAdjustments.Text" xml:space="preserve">
     <value>Коригування обʼєднання</value>
+    <comment>+</comment>
   </data>
   <data name="lblTrimBottom.Text" xml:space="preserve">
     <value>Знизу:</value>
@@ -221,8 +235,14 @@
   </data>
   <data name="tpOutput.Text" xml:space="preserve">
     <value>Виведення</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Захоплення з прокручуванням</value>
+    <value>ShareX - Захоплення з прокручуванням</value>
+    <comment>+</comment>
+  </data>
+  <data name="cbAutoUpload.Text" xml:space="preserve">
+    <value>Вивантажити/зберегти у залежності від налаштувань дій після захоплення</value>
+    <comment>+</comment>
   </data>
 </root>
