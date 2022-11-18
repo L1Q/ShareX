@@ -148,16 +148,4 @@
     <value>ShareX - Генератор мініатюр зображень</value>
     <comment>+</comment>
   </data>
-  <data name="txtOutputFilename.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblQualityPercentage.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnOutputFolder.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
 </root>

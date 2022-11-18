@@ -834,66 +834,6 @@
     <value>Буфер обміну...</value>
     <comment>+</comment>
   </data>
-  <data name="tsbTwitter.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiCopyURL.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiOpenFolder.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiOpenFile.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiOpenURL.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsbDiscord.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiUploadSelectedFile.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiDownloadSelectedURL.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiEditSelectedFile.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="niTray.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiDeleteSelectedItem.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiDeleteSelectedFile.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiCopyFilePath.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiCopyImage.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="tsmiCopyFile.ShortcutKeyDisplayString" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="tsmiPinSelectedFile.Text" xml:space="preserve">
     <value>Закріпити на екрані</value>
     <comment>+</comment>

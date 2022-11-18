@@ -244,10 +244,6 @@
     <value>ShareX - Налаштування користувацьких вивантажувачів</value>
     <comment>+</comment>
   </data>
-  <data name="mbHelp.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="lblResultErrorMessage.Text" xml:space="preserve">
     <value>Повідомлення помилки:</value>
     <comment>+</comment>

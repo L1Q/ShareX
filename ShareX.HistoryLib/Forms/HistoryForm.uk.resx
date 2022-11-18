@@ -153,10 +153,6 @@
     <value>ShareX - Історія</value>
     <comment>+</comment>
   </data>
-  <data name="chIcon.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="tslSearch.Text" xml:space="preserve">
     <value>#TODO#_Шукати:</value>
   </data>

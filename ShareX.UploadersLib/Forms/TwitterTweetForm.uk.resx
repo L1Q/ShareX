@@ -127,8 +127,4 @@
     <value>ShareX - Повідомлення у Twitter</value>
     <comment>+</comment>
   </data>
-  <data name="lblTweetLength.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
 </root>

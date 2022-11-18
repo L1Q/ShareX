@@ -218,58 +218,6 @@
     <value>ShareX - Вибір кольору</value>
     <comment>+</comment>
   </data>
-  <data name="lblX.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblY.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="txtX.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblYellowPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblMagentaPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblCyanPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="txtDecimal.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblSaturationPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblBrightnessPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblHue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="txtHex.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblKeyPerc.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="txtY.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="btnClipboardColorPicker.ToolTip" xml:space="preserve">
     <value>Взяти колір з буфера обміну</value>
     <comment>+</comment>

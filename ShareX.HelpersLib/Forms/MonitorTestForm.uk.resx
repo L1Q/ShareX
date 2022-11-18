@@ -175,24 +175,4 @@
     <value>ShareX - Перевірка монітору</value>
     <comment>+</comment>
   </data>
-  <data name="lblBlackWhiteValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblRedValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblGreenValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblShapeSizeValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblBlueValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
 </root>

@@ -141,12 +141,4 @@
     <value>ShareX - Роздільник зображення</value>
     <comment>+</comment>
   </data>
-  <data name="btnOutputFolderBrowse.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnImageFilePathBrowse.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
 </root>

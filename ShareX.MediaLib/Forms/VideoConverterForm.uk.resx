@@ -150,24 +150,4 @@
     <value>ShareX - Відеоконвертер</value>
     <comment>+</comment>
   </data>
-  <data name="lblVideoQualityHigher.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnInputFilePathBrowse.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnOutputFolderBrowse.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblVideoQualityValue.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblVideoQualityLower.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
 </root>

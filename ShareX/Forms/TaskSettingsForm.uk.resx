@@ -597,42 +597,6 @@ control region - https://discord.com/channels/194170124859736065/194170124859736
     <value>Інформаційний текст вибору кольору з екрана:</value>
     <comment>+</comment>
   </data>
-  <data name="lblCaptureCustomRegionX.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblCaptureCustomRegionY.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblToastWindowSizeX.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnRegionCaptureSnapSizesAdd.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnRegionCaptureSnapSizesRemove.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnCustomErrorSoundPath.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnCustomTaskCompletedSoundPath.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnCustomCaptureSoundPath.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="lblImageJPEGQualityHint.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="cbUseCustomErrorSound.Text" xml:space="preserve">
     <value>Використовувати користувацький звук помилки:</value>
     <comment>+</comment>

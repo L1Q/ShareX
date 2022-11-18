@@ -314,14 +314,6 @@
   <data name="CloseEsc" xml:space="preserve">
     <value>Закрити (Esc)</value>
   </data>
-  <data name="CRF" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="RectangleRegion_GetColorPickerText" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="ScreenRecordForm_StartRecording_Waiting___" xml:space="preserve">
     <value>Очікування...</value>
     <comment>+</comment>

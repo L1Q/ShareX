@@ -133,14 +133,6 @@
     <value>ShareX - Налаштування гарячих клавіш</value>
     <comment>+</comment>
   </data>
-  <data name="btnMoveDown.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
-  <data name="btnMoveUp.Text" xml:space="preserve">
-    <value></value>
-    <comment>+</comment>
-  </data>
   <data name="btnHotkeysDisabled.Text" xml:space="preserve">
     <value>Гарячі клавіші вимкнені. Ви можете натиснути тут щоб увімкнути.</value>
     <comment>+</comment>
